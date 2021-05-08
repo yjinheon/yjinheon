@@ -2,6 +2,12 @@
 
 R User :)
 
+I'm interested in..
+  - Decision science
+  - Data Analysis
+  - Consumer Psychology
+  - Statistics
+
 <!--
 **yjinheon/yjinheon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
