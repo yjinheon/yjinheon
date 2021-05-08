@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm R User :)
+I'm R User :)  
 I'm interested in..
   - Decision science
   - Data Analysis
