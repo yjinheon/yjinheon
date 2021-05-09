@@ -6,6 +6,7 @@ I'm interested in..
   - Data Analysis
   - Consumer Psychology
   - Statistics
+  - etc..
 
 <!--
 **yjinheon/yjinheon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
