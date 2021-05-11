@@ -2,7 +2,7 @@
 
 I'm R User :)  
 I'm interested in..
-  - Decision science
+  - Decision Science
   - Data Analysis
   - Consumer Psychology
   - Statistics
