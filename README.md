@@ -3,7 +3,7 @@
  <a href="mailto:yjinheon@gmail.com" target="_blank"><img src="https://img.shields.io/badge/yjinheon@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
  <a href="https://www.linkedin.com/in/jin-heon-yoon-583842178/" target="_blank"><img src="https://img.shields.io/badge/JinheonYoon-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
  
-I'm R, Python User :)  
+I'm R, Python User :smiley:  
 I'm interested in..
   - Decision Science
   - Data Analysis
