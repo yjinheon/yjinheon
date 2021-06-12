@@ -15,7 +15,10 @@ I'm interested in..
  ## SKILLS
 <img src="https://img.shields.io/badge/R-blue?style=flat-square&logo=R&logoColor=white"/> <img src="https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=Python&logoColor=darkgreen"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white"/>  <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
 
- 
+
+## TOOLS
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white"/> <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
+
 
 <!--
 **yjinheon/yjinheon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
