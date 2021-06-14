@@ -1,7 +1,7 @@
 
  <a href="https://yjinheon.github.io/" target="_blank"><img src="https://img.shields.io/badge/Hexo_Blog-black?style=flat-square&logo=Hexo&logoColor=white"/></a>
  <a href="mailto:yjinheon@gmail.com" target="_blank"><img src="https://img.shields.io/badge/yjinheon@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
- <a href="https://www.linkedin.com/in/jin-heon-yoon-583842178/" target="_blank"><img src="https://img.shields.io/badge/JinheonYoon-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+ <a href="https://www.linkedin.com/in/jin-heon-yoon-583842178/" target="_blank"><img src="https://img.shields.io/badge/JinheonYoon-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a> [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyjinheon%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
  
  ## Hi!
  
