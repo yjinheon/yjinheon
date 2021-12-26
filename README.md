@@ -16,7 +16,6 @@ I'm interested in..
   - Consumer Psychology
   - Recommender System
 
-I'm Currently Using <img src= "https://img.shields.io/badge/manjaro-35BF5C?style=flat-sqare&logo=manjaro&logoColor=white"/> It's awesome!
 
 
 [![Jin Heon's GitHub stats](https://github-readme-stats.vercel.app/api?username=yjinheon&count_private=true&hide=stars&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
@@ -30,6 +29,7 @@ I'm Currently Using <img src= "https://img.shields.io/badge/manjaro-35BF5C?style
 <!--
 **yjinheon/yjinheon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white"/> 
+I'm Currently Using <img src= "https://img.shields.io/badge/manjaro-35BF5C?style=flat-sqare&logo=manjaro&logoColor=white"/> It's awesome!
 
 
 Here are some ideas to get you started:
