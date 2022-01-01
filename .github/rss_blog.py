@@ -12,7 +12,7 @@ def update_readme(readme_base,rss_title):
         posts.append(f" - [{entry['title']}]({entry['link']})")
     posts_joined = '\n'.join(posts)
 
-    return readme_base[:readme_base.find(rss_title)] + f"\n{posts_joined}"
+    return readme_base[:readme_base.find(rss_title)] +"## Recent Writings "+ f"\n{posts_joined}"
 
 
 #print(fetch_writing())
