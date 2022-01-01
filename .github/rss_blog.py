@@ -23,4 +23,4 @@ readme = Path('../README.md').read_text()
 updated_readme = update_readme(readme)
 
 with open('../README.md') as f:
-    f.writable(updated_readme)
+    f.write()
