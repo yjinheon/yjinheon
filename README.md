@@ -94,6 +94,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## My Recent Posts
+---
  - [[Python]seaborn FutureWarning: Pass the following variables as keyword args: x, y 해결](https://yjinheon.github.io/2021/12/25/TS-Python-1/)
  - [[Linux]zsh: corrupt history file 해결](https://yjinheon.github.io/2021/12/25/TS-linux-1/)
  - [[Python]Hash Table과 Hash에 대한 이해](https://yjinheon.github.io/2021/12/25/Programming-Python-hash-table/)
