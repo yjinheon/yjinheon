@@ -67,41 +67,7 @@ I'm interested in..
 </table>
     
     
-## Recent Writings
 
- <!--
-**yjinheon/yjinheon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white"/> 
-I'm Currently Using <img src= "https://img.shields.io/badge/manjaro-35BF5C?style=flat-sqare&logo=manjaro&logoColor=white"/> It's awesome!
-
-## SKILLS
- 
- 
-<img src="https://img.shields.io/badge/R-blue?style=flat-square&logo=R&logoColor=white"/> <img src="https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=Python&logoColor=darkgreen"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/> <img src = "https://img.shields.io/badge/Flask-000000?style=flat-sqare&logo=flask&logoColor=white "/>
-
-
-## TOOLS
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/Google%20Analytics-E37400?style=flat-square&logo=google%20analytics&logoColor=white"/> <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-sqare&logo=google-cloud&logoColor=white"/>
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-
- - [[Python]seaborn FutureWarning: Pass the following variables as keyword args: x, y 해결](https://yjinheon.github.io/2021/12/25/TS-Python-1/)
- - [[Linux]zsh: corrupt history file 해결](https://yjinheon.github.io/2021/12/25/TS-linux-1/)
- - [[Python]Hash Table과 Hash에 대한 이해](https://yjinheon.github.io/2021/12/25/Programming-Python-hash-table/)
- - [[SQL]서브쿼리 정리](https://yjinheon.github.io/2021/12/25/DE-SQL-subquery/)
- - [[Deep Leearing]학습 규제하기(Handling Overfitting)](https://yjinheon.github.io/2021/12/25/ML-DL-regularization/)
  - [[Python]seaborn FutureWarning: Pass the following variables as keyword args: x, y 해결](https://yjinheon.github.io/2021/12/25/TS-Python-1/)
  - [[Linux]zsh: corrupt history file 해결](https://yjinheon.github.io/2021/12/25/TS-linux-1/)
  - [[Python]Hash Table과 Hash에 대한 이해](https://yjinheon.github.io/2021/12/25/Programming-Python-hash-table/)
