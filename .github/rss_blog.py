@@ -22,5 +22,5 @@ rss_title = "## My Recent Posts"
 readme = Path('../README.md').read_text()
 updated_readme = update_readme(readme)
 
-with open('../README.md') as f:
+with open('../README.md','w') as f:
     f.write(updated_readme)
