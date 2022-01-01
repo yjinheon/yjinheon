@@ -67,7 +67,7 @@ I'm interested in..
 </table>
     
     
-
+## Recent Writings
 
  <!--
 **yjinheon/yjinheon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -94,6 +94,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 
 
  - [[Python]seaborn FutureWarning: Pass the following variables as keyword args: x, y 해결](https://yjinheon.github.io/2021/12/25/TS-Python-1/)
