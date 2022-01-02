@@ -67,8 +67,8 @@ I'm interested in..
 </table>
 
 ## Recent Writings 
- - [[Python]seaborn FutureWarning: Pass the following variables as keyword args: x, y 해결](https://yjinheon.github.io/2021/12/25/TS-Python-1/)
- - [[Linux]zsh: corrupt history file 해결](https://yjinheon.github.io/2021/12/25/TS-linux-1/)
- - [[Python]Hash Table과 Hash에 대한 이해](https://yjinheon.github.io/2021/12/25/Programming-Python-hash-table/)
- - [[SQL]서브쿼리 정리](https://yjinheon.github.io/2021/12/25/DE-SQL-subquery/)
- - [[Deep Leearing]학습 규제하기(Handling Overfitting)](https://yjinheon.github.io/2021/12/25/ML-DL-regularization/)
+ - [[Unix]데이터 관련 프로젝트시 자주 사용하는 commandline 명령어 모음](https://yjinheon.github.io/2022/01/02/DE-Linux-commandline/)
+ - [[Linux]zsh: corrupt history file 해결](https://yjinheon.github.io/2021/12/17/TS-linux-ts-1/)
+ - [[Python]](https://yjinheon.github.io/2021/12/17/ML-XAI-shap/)
+ - [[XAI]PDP Plot의 이해와 구현](https://yjinheon.github.io/2021/12/04/ML-XAI-PDP/)
+ - [[DDL]Table 구조 다루기](https://yjinheon.github.io/2021/12/04/DE-SQL-DDL-tables/)
