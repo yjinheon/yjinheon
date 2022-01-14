@@ -27,5 +27,6 @@ updated_time = f"\n Last Updated: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}
 
 with open('../README.md','w') as f:
     f.write(updated_readme)
+    f.write("\n")
     f.write(updated_time)
     
