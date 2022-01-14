@@ -1,6 +1,7 @@
 import feedparser
 import re
 from pathlib import Path
+from datetime import datetime
 
 temp = feedparser.parse('https://yjinheon.github.io/rss2.xml')
 
@@ -18,9 +19,13 @@ def update_readme(readme_base,rss_title):
 #print(fetch_writing())
 
 
+
 rss_title = "## Recent Writings"
 readme = Path('../README.md').read_text()
 updated_readme = update_readme(readme,rss_title)
+updated_time = f"\n Last Updated: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}"
 
 with open('../README.md','w') as f:
     f.write(updated_readme)
+    f.write(updated_time)
+    
