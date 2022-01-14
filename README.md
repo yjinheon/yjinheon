@@ -72,4 +72,5 @@ I'm interested in..
  - [[Unix]데이터 관련 프로젝트시 자주 사용하는 commandline 명령어 모음](https://yjinheon.github.io/2022/01/02/DE-Linux-commandline/)
  - [[Linux]zsh: corrupt history file 해결](https://yjinheon.github.io/2021/12/17/TS-linux-ts-1/)
  - [[Python]](https://yjinheon.github.io/2021/12/17/ML-XAI-shap/)
- Last Updated: 2022-01-14 14:45:55
+
+ Last Updated: 2022-01-14 14:48:12
