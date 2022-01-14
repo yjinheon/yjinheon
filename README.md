@@ -67,8 +67,9 @@ I'm interested in..
 </table>
 
 ## Recent Writings 
+ - [[Probability]Python을 활용한 카이스퀘어 검정 구현](https://yjinheon.github.io/2022/01/14/Statistics-Prob-chi-square-dist/)
  - [[Probability]numpy와 scipy로 다항분포 간단하게 구현하기](https://yjinheon.github.io/2022/01/13/Statistics-Prob-multinomial-dist/)
  - [[Unix]데이터 관련 프로젝트시 자주 사용하는 commandline 명령어 모음](https://yjinheon.github.io/2022/01/02/DE-Linux-commandline/)
  - [[Linux]zsh: corrupt history file 해결](https://yjinheon.github.io/2021/12/17/TS-linux-ts-1/)
  - [[Python]](https://yjinheon.github.io/2021/12/17/ML-XAI-shap/)
- - [[XAI]PDP Plot의 이해와 구현](https://yjinheon.github.io/2021/12/04/ML-XAI-PDP/)
+ Last Updated: 2022-01-14 14:45:55
