@@ -71,6 +71,6 @@ I'm interested in..
  - [[Probability]numpy와 scipy로 다항분포 간단하게 구현하기](https://yjinheon.github.io/2022/01/13/Statistics-Prob-multinomial-dist/)
  - [[Unix]데이터 관련 프로젝트시 자주 사용하는 commandline 명령어 모음](https://yjinheon.github.io/2022/01/02/DE-Linux-commandline/)
  - [[Linux]zsh: corrupt history file 해결](https://yjinheon.github.io/2021/12/17/TS-linux-ts-1/)
- - [[Python]](https://yjinheon.github.io/2021/12/17/ML-XAI-shap/)
+ - [[XAI]Shap을 활용한 모델해석](https://yjinheon.github.io/2021/12/17/ML-XAI-shap/)
 
- Last Updated: 2022-01-14 23:51:48
+ Last Updated: 2022-01-15 11:58:24
