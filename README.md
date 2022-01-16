@@ -73,4 +73,4 @@ I'm interested in..
  - [[Linux]zsh: corrupt history file 해결](https://yjinheon.github.io/2021/12/17/TS-linux-ts-1/)
  - [[XAI]Shap을 활용한 모델해석](https://yjinheon.github.io/2021/12/17/ML-XAI-shap/)
 
- Last Updated: 2022-01-15 11:58:24
+ Last Updated: 2022-01-16 11:57:26
