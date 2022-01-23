@@ -67,10 +67,10 @@ I'm interested in..
 </table>
 
 ## Recent Writings 
+ - [[Sampling]Class Imbalance 다루기](https://yjinheon.github.io/2022/01/22/Preprocessing-sampling-imbalance-data/)
+ - [[Data Transformation]Feature Scaling의 이해](https://yjinheon.github.io/2022/01/22/Preprocessing-dt-Scaler/)
  - [[SVM]서포트벡터머신의 이해](https://yjinheon.github.io/2022/01/17/ML-SP-SVM/)
  - [[Probability]Python을 활용한 카이스퀘어 검정 구현](https://yjinheon.github.io/2022/01/14/Statistics-Prob-chi-square-dist/)
  - [[Probability]numpy와 scipy로 다항분포 간단하게 구현하기](https://yjinheon.github.io/2022/01/13/Statistics-Prob-multinomial-dist/)
- - [[Unix]데이터 관련 프로젝트시 자주 사용하는 commandline 명령어 모음](https://yjinheon.github.io/2022/01/02/DE-Linux-commandline/)
- - [[Linux]zsh: corrupt history file 해결](https://yjinheon.github.io/2021/12/17/TS-linux-ts-1/)
 
- Last Updated: 2022-01-22 11:48:20
+ Last Updated: 2022-01-23 11:47:02
