@@ -30,7 +30,6 @@ I'm interested in..
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="20" align="middle"></a>
     <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" height="20" align="middle"></a>
     <img src="https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white" height="20" align="middle"/>
-    <img src="https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white" height="20" align="middle">
   </td>
 </tr>
 <tr>
