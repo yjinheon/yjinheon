@@ -41,6 +41,7 @@ I'm interested in..
     <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white" height="20" align="middle"></a>
     <img src="https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white" height="20" align="middle"></a>
     <img srt="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" height="20" align="middle"></a>
+    <img srt="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white" height="20" align="middle"></a>
   </td>
 </tr>
 <tr>
@@ -64,6 +65,10 @@ I'm interested in..
   </td>
 </tr>
 </table>
+
+## Projects
+- [머신러닝을 활용한 사회초년생의 이직의도 예측](https://github.com/yjinheon/project-turnover-behavior)
+- []()
 
 ## Recent Writings 
  - [[R]make: gfortran: No such file or directory 해결하기](https://yjinheon.github.io/2022/01/29/TS-R-lib-1/)
