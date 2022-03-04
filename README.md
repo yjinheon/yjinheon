@@ -68,7 +68,7 @@ I'm interested in..
 
 ## Projects
 - [머신러닝을 활용한 사회초년생의 이직의도 예측](https://github.com/yjinheon/project-turnover-behavior)
-- []()
+- [Deep Autoencoder을 활용한 플레이리스트 기반 추천시스템 구현](https://github.com/yjinheon/melon-autoencoder)
 
 ## Recent Writings 
  - [[R]make: gfortran: No such file or directory 해결하기](https://yjinheon.github.io/2022/01/29/TS-R-lib-1/)
