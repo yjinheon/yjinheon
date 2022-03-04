@@ -72,4 +72,4 @@ I'm interested in..
  - [[SVM]서포트벡터머신의 이해](https://yjinheon.github.io/2022/01/17/ML-SP-SVM/)
  - [[Probability]Python을 활용한 카이스퀘어 검정 구현](https://yjinheon.github.io/2022/01/14/Statistics-Prob-chi-square-dist/)
 
- Last Updated: 2022-03-03 11:58:14
+ Last Updated: 2022-03-04 11:59:21
