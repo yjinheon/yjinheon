@@ -38,10 +38,10 @@ I'm interested in..
    <td>
     <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" height="20" align="middle"></a>
     <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" height="20" align="middle"></a>
-    <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white" height="20" align="middle"></a>
+    <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white" height="20" align="middle"></a> <br />
     <img src="https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white" height="20" align="middle"></a>
-    <img srt="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" height="20" align="middle"></a>
-    <img srt="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white" height="20" align="middle"></a>
+    <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" height="20" align="middle"></a>
+    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white" height="20" align="middle"></a>
   </td>
 </tr>
 <tr>
