@@ -71,10 +71,10 @@ I'm interested in..
 - [Deep Autoencoder을 활용한 플레이리스트 기반 추천시스템 구현](https://github.com/yjinheon/melon-autoencoder)
 
 ## Recent Writings 
+ - [[Git]커밋내역 확인 및 삭제하기](https://yjinheon.github.io/2022/03/04/tools-git-log/)
  - [[R]make: gfortran: No such file or directory 해결하기](https://yjinheon.github.io/2022/01/29/TS-R-lib-1/)
  - [[Sampling]Class Imbalance 다루기](https://yjinheon.github.io/2022/01/22/Preprocessing-sampling-imbalance-data/)
  - [[Data Transformation]Feature Scaling의 이해](https://yjinheon.github.io/2022/01/22/Preprocessing-dt-Scaler/)
  - [[SVM]서포트벡터머신의 이해](https://yjinheon.github.io/2022/01/17/ML-SP-SVM/)
- - [[Probability]Python을 활용한 카이스퀘어 검정 구현](https://yjinheon.github.io/2022/01/14/Statistics-Prob-chi-square-dist/)
 
- Last Updated: 2022-03-04 16:09:39
+ Last Updated: 2022-03-04 16:20:57
