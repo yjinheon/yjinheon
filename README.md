@@ -69,6 +69,7 @@ I'm interested in..
 ## Projects
 - [머신러닝을 활용한 사회초년생의 이직의도 예측](https://github.com/yjinheon/project-turnover-behavior)
 - [Deep Autoencoder을 활용한 플레이리스트 기반 추천시스템 구현](https://github.com/yjinheon/melon-autoencoder)
+- [Semantic Textual Similarity](https://github.com/sw6820/STS)
 
 ## Recent Writings 
  - [[Git]커밋내역 확인 및 삭제하기](https://yjinheon.github.io/2022/03/04/tools-git-log/)
