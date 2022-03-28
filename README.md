@@ -79,4 +79,4 @@ I'm interested in..
  - [[Data Transformation]Feature Scaling의 이해](https://yjinheon.github.io/2022/01/22/Preprocessing-dt-Scaler/)
  - [[SVM]서포트벡터머신의 이해](https://yjinheon.github.io/2022/01/17/ML-SP-SVM/)
 
- Last Updated: 2022-03-27 12:01:58
+ Last Updated: 2022-03-28 12:17:36
