@@ -73,10 +73,10 @@ I'm interested in..
 - [뉴스 요약문 생성 모델 개발](https://github.com/seawavve/NLG_summarization)
 
 ## Recent Writings 
- - [[Git]커밋내역 확인 및 삭제하기](https://yjinheon.github.io/2022/03/04/tools-git-log/)
+ - [[Python] asterisk를 활용한 unpacking](https://yjinheon.github.io/2022/03/30/Programming-Python-unpacking/)
+ - [[Git]commit, push 제외 자주쓰는 git 명령어들](https://yjinheon.github.io/2022/03/04/tools-git-log/)
  - [[R]make: gfortran: No such file or directory 해결하기](https://yjinheon.github.io/2022/01/29/TS-R-lib-1/)
  - [[Sampling]Class Imbalance 다루기](https://yjinheon.github.io/2022/01/22/Preprocessing-sampling-imbalance-data/)
  - [[Data Transformation]Feature Scaling의 이해](https://yjinheon.github.io/2022/01/22/Preprocessing-dt-Scaler/)
- - [[SVM]서포트벡터머신의 이해](https://yjinheon.github.io/2022/01/17/ML-SP-SVM/)
 
- Last Updated: 2022-03-30 12:13:50
+ Last Updated: 2022-03-31 12:09:57
