@@ -79,4 +79,4 @@ I'm interested in..
  - [[Git]commit, push 제외 자주쓰는 git 명령어들](https://yjinheon.github.io/2022/03/04/tools-git-log/)
  - [[R]make: gfortran: No such file or directory 해결하기](https://yjinheon.github.io/2022/01/29/TS-R-lib-1/)
 
- Last Updated: 2022-04-02 12:10:07
+ Last Updated: 2022-04-02 21:20:11
