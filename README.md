@@ -79,4 +79,4 @@ I'm interested in..
  - [[NLP]Word Embedding과 Text Classification](https://yjinheon.github.io/2022/03/31/NLP-wordembedding/)
  - [[Python] asterisk를 활용한 unpacking](https://yjinheon.github.io/2022/03/30/Programming-Python-unpacking/)
 
- Last Updated: 2022-04-10 12:11:34
+ Last Updated: 2022-04-11 12:29:21
