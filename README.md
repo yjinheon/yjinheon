@@ -79,4 +79,4 @@ I'm interested in..
  - [[R]make: gfortran: No such file or directory 해결하기](https://yjinheon.github.io/2022/04/09/TS-R-lib-1/)
  - [[Linux]zsh: corrupt history file 해결](https://yjinheon.github.io/2022/04/09/TS-linux-ts-1/)
 
- Last Updated: 2022-04-16 12:08:44
+ Last Updated: 2022-04-17 12:11:45
