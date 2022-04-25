@@ -73,10 +73,10 @@ I'm interested in..
 - [뉴스 요약문 생성 모델 개발](https://github.com/seawavve/NLG_summarization)
 
 ## Recent Writings 
+ - [[Data Transformation]그룹별 시계열 데이터의 차이 구하기](https://yjinheon.github.io/2022/04/25/Preprocessing-dt-long_tips_1/)
+ - [Mermaid-Test](https://yjinheon.github.io/2022/04/16/Mermaid-Test/)
  - [[SQL]간단한 CASE WHEN 용법](https://yjinheon.github.io/2022/04/09/DE-SQL-case-when/)
  - [[Unix]데이터 관련 프로젝트시 자주 사용하는 commandline 명령어 모음](https://yjinheon.github.io/2022/04/09/DE-Linux-commandline/)
  - [[SQL]ERROR 3948 (42000): Loading local data is disabled; this must be enabled on both the client and server sides 해결하기](https://yjinheon.github.io/2022/04/09/TS-SQL-ts-1/)
- - [[R]make: gfortran: No such file or directory 해결하기](https://yjinheon.github.io/2022/04/09/TS-R-lib-1/)
- - [[Linux]zsh: corrupt history file 해결](https://yjinheon.github.io/2022/04/09/TS-linux-ts-1/)
 
- Last Updated: 2022-04-24 12:10:01
+ Last Updated: 2022-04-25 12:30:43
