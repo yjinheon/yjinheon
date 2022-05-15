@@ -79,4 +79,4 @@ I'm interested in..
  - [[Unix]데이터 관련 프로젝트시 자주 사용하는 commandline 명령어 모음](https://yjinheon.github.io/2022/04/09/DE-Linux-commandline/)
  - [[SQL]ERROR 3948 (42000): Loading local data is disabled; this must be enabled on both the client and server sides 해결하기](https://yjinheon.github.io/2022/04/09/TS-SQL-ts-1/)
 
- Last Updated: 2022-05-14 13:16:28
+ Last Updated: 2022-05-15 12:29:07
