@@ -80,4 +80,4 @@ I'm interested in..
  - [[Python] asterisk를 활용한 unpacking](https://yjinheon.github.io/2022/06/15/Programming-Python-unpacking/)
  - [[Math]미적분 기초개념](https://yjinheon.github.io/2022/06/15/Statistics-Math-derivatives/)
 
- Last Updated: 2022-06-22 23:28:34
+ Last Updated: 2022-06-22 23:29:18
