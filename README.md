@@ -79,9 +79,9 @@ I'm interested in..
 
 ## Recent Writings 
  - [[Pyspark]하둡의 컨셉 이해하기](https://yjinheon.github.io/2022/06/22/DE-Pyspark-Hadoop.md/)
- - [[Math]미적분 기초개념](https://yjinheon.github.io/2022/06/16/Statistics-GLM-1/)
+ - [[GLM]선형모델과 비선형 모델의 차이](https://yjinheon.github.io/2022/06/16/Statistics-GLM-1/)
  - [[Python]for-loop관련 함수들](https://yjinheon.github.io/2022/06/15/Programming-Python-zip-enumerate/)
  - [[Python] asterisk를 활용한 unpacking](https://yjinheon.github.io/2022/06/15/Programming-Python-unpacking/)
  - [[Math]미적분 기초개념](https://yjinheon.github.io/2022/06/15/Statistics-Math-derivatives/)
 
- Last Updated: 2022-06-22 23:29:18
+ Last Updated: 2022-06-25 11:47:33
