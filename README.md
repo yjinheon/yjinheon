@@ -84,4 +84,4 @@ I'm interested in..
  - [[Python]for-loop관련 함수들](https://yjinheon.github.io/2022/06/15/Programming-Python-zip-enumerate/)
  - [[Math]미적분 기초개념](https://yjinheon.github.io/2022/06/15/Statistics-Math-derivatives/)
 
- Last Updated: 2022-06-26 13:38:03
+ Last Updated: 2022-07-03 13:35:55
