@@ -78,10 +78,10 @@ I'm interested in..
 - [뉴스 요약문 생성 모델 개발](https://github.com/seawavve/NLG_summarization)
 
 ## Recent Writings 
+ - [[Probability]이항분포의 이해](https://yjinheon.github.io/2022/07/09/Statistics-Prob-binary-dist/)
  - [[Pyspark]하둡의 컨셉 이해하기](https://yjinheon.github.io/2022/06/22/DE-Pyspark-Hadoop.md/)
  - [[GLM]선형모델과 비선형 모델의 차이](https://yjinheon.github.io/2022/06/16/Statistics-GLM-1/)
  - [[Python] asterisk를 활용한 unpacking](https://yjinheon.github.io/2022/06/15/Programming-Python-unpacking/)
  - [[Python]for-loop관련 함수들](https://yjinheon.github.io/2022/06/15/Programming-Python-zip-enumerate/)
- - [[Math]미적분 기초개념](https://yjinheon.github.io/2022/06/15/Statistics-Math-derivatives/)
 
- Last Updated: 2022-07-03 13:35:55
+ Last Updated: 2022-07-10 13:36:09
