@@ -84,4 +84,4 @@ I'm interested in..
  - [[GLM]선형모델과 비선형 모델의 차이](https://yjinheon.github.io/2022/06/16/Statistics-GLM-1/)
  - [[Python] asterisk를 활용한 unpacking](https://yjinheon.github.io/2022/06/15/Programming-Python-unpacking/)
 
- Last Updated: 2022-09-25 14:07:53
+ Last Updated: 2022-10-02 14:15:27
