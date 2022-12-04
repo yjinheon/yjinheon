@@ -82,4 +82,4 @@ I'm interested in..
  - [[Pyspark]하둡의 컨셉 이해하기](https://yjinheon.github.io/2022/06/22/DE-Pyspark-Hadoop.md/)
  - [[GLM]선형모델과 비선형 모델의 차이](https://yjinheon.github.io/2022/06/16/Statistics-GLM-1/)
 
- Last Updated: 2022-12-04 13:26:01
+ Last Updated: 2022-12-05 08:34:47
