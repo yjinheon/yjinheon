@@ -13,8 +13,6 @@
  
 I'm Python, R User :smiley:
 
-M.A. in Consumer Psychology  
-
 I'm interested in..
   - Decision Science
   - Machine Learning
