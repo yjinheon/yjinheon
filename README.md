@@ -76,10 +76,10 @@ I'm interested in..
 - [뉴스 요약문 생성 모델 개발](https://github.com/seawavve/NLG_summarization)
 
 ## Recent Writings 
- - [[Machine Learning]핵심적인 컨셉들](https://yjinheon.github.io/2022/10/07/ML-NEW-01-Concept/)
- - [[Unsorted]에디터 테스트](https://yjinheon.github.io/2022/08/13/Test/)
- - [[Probability]이항분포의 이해](https://yjinheon.github.io/2022/07/09/Statistics-Prob-binary-dist/)
- - [[Pyspark]하둡의 컨셉 이해하기](https://yjinheon.github.io/2022/06/22/DE-Pyspark-Hadoop.md/)
- - [[GLM]선형모델과 비선형 모델의 차이](https://yjinheon.github.io/2022/06/16/Statistics-GLM-1/)
+ - [Chinese Test](https://yjinheon@github.io/p/test-chinese/)
+ - [Archives](https://yjinheon@github.io/archives/)
+ - [Markdown Syntax Guide](https://yjinheon@github.io/p/markdown-syntax-guide/)
+ - [Rich Content](https://yjinheon@github.io/p/rich-content/)
+ - [مثال نص](https://yjinheon@github.io/p/%D9%85%D8%AB%D8%A7%D9%84-%D9%86%D8%B5/)
 
- Last Updated: 2022-12-05 08:34:47
+ Last Updated: 2022-12-10 18:22:00
