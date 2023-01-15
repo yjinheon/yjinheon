@@ -76,10 +76,6 @@ I'm interested in..
 - [뉴스 요약문 생성 모델 개발](https://github.com/seawavve/NLG_summarization)
 
 ## Recent Writings 
- - [[Probability]numpy와 scipy로 다항분포 간단하게 구현하기](https://yjinheon@github.io/statistics-prob-multinomial-dist/)
- - [[pandas]pandas의 특정 열 제외한 모든 컬럼 출력하기](https://yjinheon@github.io/preprocessing-pandas-remove_col/)
- - [[SQL]간단한 CASE WHEN 용법](https://yjinheon@github.io/p/sql%EA%B0%84%EB%8B%A8%ED%95%9C-case-when-%EC%9A%A9%EB%B2%95/)
- - [About](https://yjinheon@github.io/about/)
- - [Archives](https://yjinheon@github.io/archives/)
 
- Last Updated: 2023-01-08 13:24:59
+
+ Last Updated: 2023-01-15 13:24:45
