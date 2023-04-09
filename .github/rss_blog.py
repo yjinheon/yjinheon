@@ -4,10 +4,10 @@ from pathlib import Path
 from datetime import datetime
 import pytz # timezone 이슈
 
-temp = feedparser.parse('https://yjinheon.github.io/index.xml')
+temp = feedparser.parse('https://yjinheon.github.io/search.xml')
 
 def update_readme(readme_base,rss_title):
-    entries = feedparser.parse('https://yjinheon.github.io/index.xml')['entries'][:5]
+    entries = temp['entries'][:5]
     posts = []
 
     for entry in entries:
