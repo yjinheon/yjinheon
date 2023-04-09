@@ -76,6 +76,10 @@ I'm interested in..
 - [뉴스 요약문 생성 모델 개발](https://github.com/seawavve/NLG_summarization)
 
 ## Recent Writings 
+ - [[Python] init, call method](https://yjinheon.github.io/2023/04/02/Programming-Python-init_call/)
+ - [[FastApi]Pydantic  데이터 업데이트](https://yjinheon.github.io/2023/03/11/Python-FastApi-Pydantic/)
+ - [[Metrics]회귀모델의 평가지표](https://yjinheon.github.io/2023/03/11/ML-Metrics-Regression/)
+ - [[Regression]머신러닝 관정에서의 회귀](https://yjinheon.github.io/2023/03/11/ML-SP-optimization/)
+ - [[Python] asterisk를 활용한 unpacking](https://yjinheon.github.io/2023/03/11/Programming-Python-unpacking/)
 
-
- Last Updated: 2023-04-09 13:10:13
+ Last Updated: 2023-04-09 16:32:10
