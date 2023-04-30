@@ -82,4 +82,4 @@ I'm interested in..
  - [[Regression]머신러닝 관정에서의 회귀](https://yjinheon.github.io/2023/03/11/ML-SP-optimization/)
  - [[Python] asterisk를 활용한 unpacking](https://yjinheon.github.io/2023/03/11/Programming-Python-unpacking/)
 
- Last Updated: 2023-04-23 13:10:16
+ Last Updated: 2023-04-30 13:10:12
