@@ -11,7 +11,7 @@ def update_readme(readme_base,rss_title):
     posts = []
 
     for entry in entries:
-        posts.append(f" - [{entry['title']}]({entry['link']})")
+        posts.append(f" - [{entry['title']}]({entry['url']})")
     posts_joined = '\n'.join(posts)
 
     return readme_base[:readme_base.find(rss_title)] +"## Recent Writings "+ f"\n{posts_joined}"
