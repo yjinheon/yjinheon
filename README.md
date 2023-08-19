@@ -76,10 +76,10 @@ I'm interested in..
 - [뉴스 요약문 생성 모델 개발](https://github.com/seawavve/NLG_summarization)
 
 ## Recent Writings 
- - [[Python] init, call method](https://yjinheon.github.io/2023/04/02/Programming-Python-init_call/)
- - [[FastApi]Pydantic  데이터 업데이트](https://yjinheon.github.io/2023/03/11/Python-FastApi-Pydantic/)
- - [[Metrics]회귀모델의 평가지표](https://yjinheon.github.io/2023/03/11/ML-Metrics-Regression/)
- - [[Regression]머신러닝 관정에서의 회귀](https://yjinheon.github.io/2023/03/11/ML-SP-optimization/)
- - [[Python] asterisk를 활용한 unpacking](https://yjinheon.github.io/2023/03/11/Programming-Python-unpacking/)
+ - [[Unix]데이터 관련 프로젝트시 자주 사용하는 commandline 명령어 모음](https://yjinheon.github.io/2021/10/08/DE-Linux-commandline/)
+ - [[Pyspark]하둡의 컨셉 이해하기](https://yjinheon.github.io/2021/12/29/DE-Pyspark-Hadoop.md/)
+ - [[DDL]Table 구조 다루기](https://yjinheon.github.io/2021/07/05/DE-SQL-DDL-tables/)
+ - [[SQL]WHERE절의 이해](https://yjinheon.github.io/2021/08/02/DE-SQL-Where/)
+ - [[SQL]간단한 CASE WHEN 용법](https://yjinheon.github.io/2021/07/21/DE-SQL-case-when/)
 
- Last Updated: 2023-05-14 13:10:01
+ Last Updated: 2023-08-19 18:25:07
