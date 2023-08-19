@@ -15,7 +15,7 @@ on:
 
 
   schedule:
-    - cron: "5 4 * * sun" # At 04:05 on Sunday.
+    - cron: "5 6 * * sun" # At 06:05 on Sunday.
 
 jobs:
   build-and-deploy:
