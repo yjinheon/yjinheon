@@ -76,10 +76,10 @@ I'm interested in..
 - [뉴스 요약문 생성 모델 개발](https://github.com/seawavve/NLG_summarization)
 
 ## Recent Writings 
- - [[Unix]데이터 관련 프로젝트시 자주 사용하는 commandline 명령어 모음](https://yjinheon.github.io/2021/10/08/DE-Linux-commandline/)
  - [[Pyspark]하둡의 컨셉 이해하기](https://yjinheon.github.io/2021/12/29/DE-Pyspark-Hadoop.md/)
  - [[DDL]Table 구조 다루기](https://yjinheon.github.io/2021/07/05/DE-SQL-DDL-tables/)
  - [[SQL]WHERE절의 이해](https://yjinheon.github.io/2021/08/02/DE-SQL-Where/)
  - [[SQL]간단한 CASE WHEN 용법](https://yjinheon.github.io/2021/07/21/DE-SQL-case-when/)
+ - [[SQL]Postgresql 자주 사용하는 명령어](https://yjinheon.github.io/2023/05/28/DE-SQL-psql-commands/)
 
- Last Updated: 2023-08-19 18:25:07
+ Last Updated: 2023-08-20 15:11:10
