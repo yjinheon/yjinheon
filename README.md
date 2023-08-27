@@ -82,4 +82,4 @@ I'm interested in..
  - [[SQL]간단한 CASE WHEN 용법](https://yjinheon.github.io/2021/07/21/DE-SQL-case-when/)
  - [[SQL]Postgresql 자주 사용하는 명령어](https://yjinheon.github.io/2023/05/28/DE-SQL-psql-commands/)
 
- Last Updated: 2023-08-20 15:11:10
+ Last Updated: 2023-08-27 15:11:00
