@@ -77,10 +77,10 @@ I'm interested in..
 - [뉴스 요약문 생성 모델 개발](https://github.com/seawavve/NLG_summarization)
 
 ## Recent Writings 
- - [[Docker]YAML 파일 작성시 key의 의미](https://yjinheon.github.io/2023/09/21/data-engineering/de-docker-compose-yaml-keys/)
- - [[Docker]Docker 기본개념](https://yjinheon.github.io/2023/09/21/data-engineering/de-docker-basic/)
- - [[Tools]NeoVim Keybinding](https://yjinheon.github.io/2023/09/21/data-engineering/de-nvim-keybinding/)
- - [[Docker]Docker 자주쓰는 명령어](https://yjinheon.github.io/2023/09/05/data-engineering/de-docker-commands/)
- - [[Python]for-loop관련 함수들](https://yjinheon.github.io/2023/09/02/programming/Programming-Python-zip-enumerate/)
+ - [[Pyspark]하둡의 컨셉 이해하기](https://yjinheon.github.io/2021/12/29/DE-Pyspark-Hadoop.md/)
+ - [[DDL]Table 구조 다루기](https://yjinheon.github.io/2021/07/05/DE-SQL-DDL-tables/)
+ - [[SQL]WHERE절의 이해](https://yjinheon.github.io/2021/08/02/DE-SQL-Where/)
+ - [[SQL]간단한 CASE WHEN 용법](https://yjinheon.github.io/2021/07/21/DE-SQL-case-when/)
+ - [[SQL]Postgresql 자주 사용하는 명령어](https://yjinheon.github.io/2023/05/28/DE-SQL-psql-commands/)
 
- Last Updated: 2023-09-24 15:22:46
+ Last Updated: 2023-10-01 15:23:33
