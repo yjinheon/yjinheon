@@ -77,10 +77,10 @@ I'm interested in..
 - [뉴스 요약문 생성 모델 개발](https://github.com/seawavve/NLG_summarization)
 
 ## Recent Writings 
- - [[Pyspark]하둡의 컨셉 이해하기](https://yjinheon.github.io/2021/12/29/DE-Pyspark-Hadoop.md/)
- - [[DDL]Table 구조 다루기](https://yjinheon.github.io/2021/07/05/DE-SQL-DDL-tables/)
- - [[SQL]WHERE절의 이해](https://yjinheon.github.io/2021/08/02/DE-SQL-Where/)
- - [[SQL]간단한 CASE WHEN 용법](https://yjinheon.github.io/2021/07/21/DE-SQL-case-when/)
- - [[SQL]Postgresql 자주 사용하는 명령어](https://yjinheon.github.io/2023/05/28/DE-SQL-psql-commands/)
+ - [Anaconda 시작시 기본설정](https://yjinheon.github.io/2021/07/08/tools-conda-install/)
+ - [[Git]간단한 Git 명령어 및 용법 정리](https://yjinheon.github.io/2021/07/17/tools-git-basic/)
+ - [[Git]commit, push 제외 자주쓰는 git 명령어들](https://yjinheon.github.io/2021/08/02/tools-git-log/)
+ - [[Git]Private repository import 하기](https://yjinheon.github.io/2023/10/28/tools-git-private-repo/)
+ - [[FastAPI]Pydantic  데이터 업데이트](https://yjinheon.github.io/2023/11/12/backend/back-FastApi-Pydantic/)
 
- Last Updated: 2023-11-05 15:11:06
+ Last Updated: 2023-11-12 15:11:02
