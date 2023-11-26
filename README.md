@@ -83,4 +83,4 @@ I'm interested in..
  - [[Git]Private repository import 하기](https://yjinheon.github.io/2023/10/28/tools-git-private-repo/)
  - [[FastAPI]Pydantic  데이터 업데이트](https://yjinheon.github.io/2023/11/12/backend/back-FastApi-Pydantic/)
 
- Last Updated: 2023-11-19 15:11:07
+ Last Updated: 2023-11-26 15:11:06
