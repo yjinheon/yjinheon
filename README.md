@@ -77,10 +77,10 @@ I'm interested in..
 - [뉴스 요약문 생성 모델 개발](https://github.com/seawavve/NLG_summarization)
 
 ## Recent Writings 
- - [Anaconda 시작시 기본설정](https://yjinheon.github.io/2021/07/08/tools-conda-install/)
- - [[Git]간단한 Git 명령어 및 용법 정리](https://yjinheon.github.io/2021/07/17/tools-git-basic/)
- - [[Git]commit, push 제외 자주쓰는 git 명령어들](https://yjinheon.github.io/2021/08/02/tools-git-log/)
- - [[Git]Private repository import 하기](https://yjinheon.github.io/2023/10/28/tools-git-private-repo/)
  - [[FastAPI]Pydantic  데이터 업데이트](https://yjinheon.github.io/2023/11/12/backend/back-FastApi-Pydantic/)
+ - [](https://yjinheon.github.io/2023/11/19/backend/back-spring-basic/)
+ - [[Spring]Spring Boot Devtools 설정](https://yjinheon.github.io/2023/11/19/backend/back-spring-config/)
+ - [프론트엔드 기본개념들](https://yjinheon.github.io/2023/10/28/frond-end/fe-concepts/)
+ - [자바스크립트 코드스니펫](https://yjinheon.github.io/2023/10/28/frond-end/fe-javascript-index/)
 
- Last Updated: 2023-11-26 15:11:06
+ Last Updated: 2023-12-03 15:11:09
