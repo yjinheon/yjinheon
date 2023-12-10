@@ -83,4 +83,4 @@ I'm interested in..
  - [프론트엔드 기본개념들](https://yjinheon.github.io/2023/10/28/frond-end/fe-concepts/)
  - [자바스크립트 코드스니펫](https://yjinheon.github.io/2023/10/28/frond-end/fe-javascript-index/)
 
- Last Updated: 2023-12-03 15:11:09
+ Last Updated: 2023-12-10 15:11:03
