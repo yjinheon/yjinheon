@@ -77,10 +77,10 @@ I'm interested in..
 - [뉴스 요약문 생성 모델 개발](https://github.com/seawavve/NLG_summarization)
 
 ## Recent Writings 
- - [[FastAPI]Pydantic  데이터 업데이트](https://yjinheon.github.io/2023/11/12/backend/back-FastApi-Pydantic/)
- - [](https://yjinheon.github.io/2023/11/19/backend/back-spring-basic/)
- - [[Spring]Spring Boot Devtools 설정](https://yjinheon.github.io/2023/11/19/backend/back-spring-config/)
- - [프론트엔드 기본개념들](https://yjinheon.github.io/2023/10/28/frond-end/fe-concepts/)
- - [자바스크립트 코드스니펫](https://yjinheon.github.io/2023/10/28/frond-end/fe-javascript-index/)
+ - [[Spring]기본 인덱스](https://yjinheon.github.io/2024/01/01/backend/back-spring-index/)
+ - [[Spring]트러블슈팅](https://yjinheon.github.io/2024/01/01/backend/back-spring-troubleshooting/)
+ - [[Neovim]NeoVim Keybinding](https://yjinheon.github.io/2023/12/30/tools/nvim-keybinding/)
+ - [[FastAPI]Index](https://yjinheon.github.io/2023/12/30/backend/fastapi/back-fastapi-index/)
+ - [[Python] init, call method](https://yjinheon.github.io/2023/12/30/programming/python/Python-init_call/)
 
- Last Updated: 2023-12-31 15:11:08
+ Last Updated: 2024-01-07 15:11:20
