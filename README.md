@@ -83,4 +83,4 @@ I'm interested in..
  - [[Neovim]NeoVim Keybinding](https://yjinheon.github.io/2023/12/30/tools/nvim-keybinding/)
  - [[FastAPI]Index](https://yjinheon.github.io/2023/12/30/backend/fastapi/back-fastapi-index/)
 
- Last Updated: 2024-01-14 15:11:19
+ Last Updated: 2024-01-21 15:11:19
