@@ -77,10 +77,10 @@ I'm interested in..
 - [뉴스 요약문 생성 모델 개발](https://github.com/seawavve/NLG_summarization)
 
 ## Recent Writings 
+ - [[Python]간단한 트릭들](https://yjinheon.github.io/2024/01/17/programming/python/Python-Tricks/)
  - [[Spring]threadlocal](https://yjinheon.github.io/2024/01/08/backend/spring/back-spring-threadlocal/)
  - [[Java]기본컨셉들](https://yjinheon.github.io/2024/01/07/programming/java/Java-Basic/)
  - [[Spring]트러블슈팅](https://yjinheon.github.io/2024/01/01/backend/spring/back-spring-troubleshooting/)
  - [[Neovim]NeoVim Keybinding](https://yjinheon.github.io/2023/12/30/tools/nvim-keybinding/)
- - [[FastAPI]Index](https://yjinheon.github.io/2023/12/30/backend/fastapi/back-fastapi-index/)
 
- Last Updated: 2024-01-21 15:11:19
+ Last Updated: 2024-01-28 15:10:56
