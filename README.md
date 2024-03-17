@@ -77,10 +77,6 @@ I'm interested in..
 - [뉴스 요약문 생성 모델 개발](https://github.com/seawavve/NLG_summarization)
 
 ## Recent Writings 
- - [프론트엔드 기본개념들](https://yjinheon.github.io/2023/10/28/frond-end/fe-concepts/)
- - [자바스크립트 코드스니펫](https://yjinheon.github.io/2023/10/28/frond-end/fe-javascript-index/)
- - [[DDL]Table 구조 다루기](https://yjinheon.github.io/2021/07/05/data-engineering/DE-SQL-DDL-tables/)
- - [[SQL]WHERE절의 이해](https://yjinheon.github.io/2021/08/02/data-engineering/DE-SQL-Where/)
- - [[SQL]간단한 CASE WHEN 용법](https://yjinheon.github.io/2021/07/21/data-engineering/DE-SQL-case-when/)
 
- Last Updated: 2024-03-10 15:10:57
+
+ Last Updated: 2024-03-17 15:10:51
