@@ -4,14 +4,14 @@ from pathlib import Path
 from datetime import datetime
 import pytz # timezone 이슈
 
-temp = feedparser.parse('https://yjinheon.github.io/search.xml')
+temp = feedparser.parse('https://yjinheon.netlify.app/rss.xml')
 
 def update_readme(readme_base,rss_title):
     entries = temp['entries'][:5]
     posts = []
 
     for entry in entries:
-        posts.append(f" - [{entry['title']}]({entry['url']})")
+        posts.append(f" - [{entry['title']}]({entry['link']})")
     posts_joined = '\n'.join(posts)
 
     return readme_base[:readme_base.find(rss_title)] +"## Recent Writings "+ f"\n{posts_joined}"
