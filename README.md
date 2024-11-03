@@ -77,10 +77,10 @@ I'm interested in..
 - [뉴스 요약문 생성 모델 개발](https://github.com/seawavve/NLG_summarization)
 
 ## Recent Writings 
+ - [[kafka]Server Properties](https://yjinheon.netflify.app/posts/02de/kafka/de-kafka-serverproperties/)
  - [[design-pattern] Observer Pattern](https://yjinheon.netflify.app/posts/01programming/design-pattern-observer/)
  - [[Python]functional programming](https://yjinheon.netflify.app/posts/01programming/python/python-functional/)
  - [[Java]Generics](https://yjinheon.netflify.app/posts/01programming/java/java-generics/)
  - [[Tools] 내가 쓰는 Neovim 단축키 정리](https://yjinheon.netflify.app/posts/90tools/tools-vim/)
- - [[Docker]Docker 자주쓰는 명령어](https://yjinheon.netflify.app/posts/02de/de-docker-commands/)
 
- Last Updated: 2024-10-29 13:28:27
+ Last Updated: 2024-11-03 15:11:54
