@@ -62,11 +62,10 @@ I'm interested in..
    <td> Tools
   </td>
    <td>
-    <img src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white" height="20" align="middle"></a>
+        <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" height="20" align="middle"></a>
+     <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white" height="20" align="middle"></a>
     <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" height="20" align="middle"></a>
     <img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white" height="20" align="middle"></a>
-    <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" height="20" align="middle"></a>
-    <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white" height="20" align="middle"></a>
     <img src="https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=WeightsAndBiases&logoColor=white" height="20" align="middle"></a> 
     <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" height="20" align="middle"/></a>
   </td>
@@ -78,10 +77,10 @@ I'm interested in..
 - [뉴스 요약문 생성 모델 개발](https://github.com/seawavve/NLG_summarization)
 
 ## Recent Writings 
- - [[kafka]Core Concepts](https://yjinheon.netflify.app/posts/02de/kafka/de-kafka-core_concepts/)
- - [[kafka]Server Properties](https://yjinheon.netflify.app/posts/02de/kafka/de-kafka-serverproperties/)
- - [[design-pattern] Observer Pattern](https://yjinheon.netflify.app/posts/01programming/design-pattern-observer/)
- - [[Java]Collection](https://yjinheon.netflify.app/posts/01programming/java/java-collection/)
- - [[Java]Generics](https://yjinheon.netflify.app/posts/01programming/java/java-generics/)
+ - [[kafka]Core Concepts] ( https://yjinheon.netflify.app/posts/02de/kafka/de-kafka-core_concepts)
+ - [[kafka]Server Properties](https://yjinheon.netflify.app/posts/02de/kafka/de-kafka-serverproperties)
+ - [[design-pattern] Observer Pattern](https://yjinheon.netflify.app/posts/01programming/design-pattern-observer)
+ - [[Java]Collection](https://yjinheon.netflify.app/posts/01programming/java/java-collection)
+ - [[Java]Generics] (https://yjinheon.netflify.app/posts/01programming/java/java-generics)
 
  Last Updated: 2024-11-13 11:01:26
