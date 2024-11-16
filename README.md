@@ -77,10 +77,10 @@ I'm interested in..
 - [뉴스 요약문 생성 모델 개발](https://github.com/seawavve/NLG_summarization)
 
 ## Recent Writings 
- - [[kafka]Core Concepts](https://yjinheon.netlify.app/posts/02de/kafka/de-kafka-core_concepts/)
- - [[kafka]Server Properties](https://yjinheon.netlify.app/posts/02de/kafka/de-kafka-serverproperties/)
+ - [[Python]01.Basic functional Concepts](https://yjinheon.netlify.app/posts/01programming/python/functional/python-01_func_concepts/)
+ - [[kafka]Server Properties](https://yjinheon.netlify.app/posts/02de/kafka/de-kafka-90_serverproperties/)
  - [[design-pattern] Observer Pattern](https://yjinheon.netlify.app/posts/01programming/design-pattern-observer/)
- - [[Java]Collection](https://yjinheon.netlify.app/posts/01programming/java/java-collection/)
+ - [[Python] Closure, Decorator](https://yjinheon.netlify.app/posts/01programming/python/functional/python-02_closure_deco/)
  - [[Java]Generics](https://yjinheon.netlify.app/posts/01programming/java/java-generics/)
 
- Last Updated: 2024-11-13 11:18:29
+ Last Updated: 2024-11-16 18:09:57
