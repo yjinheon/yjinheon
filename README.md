@@ -34,7 +34,7 @@ I'm interested in..
   </td>
    <td>
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffdd54" height="20" align="middle"></a>
-    <img src=" https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="20" align="middle"/></a>
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="20" align="middle"/></a>
     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=yellow" height="20" align="middle"/></a>
     <img src="https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" height="18" align="middle"/></a>
     <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" height="20" align="middle"></a>
@@ -45,7 +45,7 @@ I'm interested in..
   </td>
    <td>
     <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white" height="20" align="middle"></a>
-    <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" height="20" align="middle"></a>
+    <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" hekjjight="20" align="middle"></a>
     <img src="https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FastAPI&logoColor=white" height="20" align="middle"></a>
     <img src="https://img.shields.io/badge/Apache_Spark-FFFFFF?style=for-the-badge&logo=apachespark&logoColor=#E35A16" height="20" align="middle"></a>
     <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white" height="20" align="middle"></a>
@@ -58,7 +58,7 @@ I'm interested in..
   </td>
    <td>
    <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" height="20" align="middle"></a>
-     <h4>I use Arch, btw </h4>
+     <h4>I USE Arch BTW </h4>
    <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" height="20" align="middle"></a>
   </td>
 </tr>
@@ -68,10 +68,21 @@ I'm interested in..
    <td>
    <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white" height="20" align="middle"></a>
    <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" height="20" align="middle"></a>
+   <img src="https://img.shields.io/badge/dbeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white" height="20" align="middle"></a>
    <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" height="20" align="middle"></a>
-   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" height="20" align="middle"/></a>
    <img src="https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=WeightsAndBiases&logoColor=white" height="20" align="middle"></a>
    <img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white" height="20" align="middle"></a>
+  </td>
+</tr>
+</tr>
+<tr>
+  <td> Database
+  </td>
+   <td>
+   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" height="20" align="middle"/></a>
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" height="20" align="middle"/></a>
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white" height="20" align="middle"/></a>
+<img src="https://img.shields.io/badge/Elastic_Search-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" height="20" align="middle"/></a>
   </td>
 </tr>
 </table>
@@ -90,11 +101,12 @@ I'm interested in..
 - [한국어 문장의 유사도 분석 모델 훈련 및 서비스화](https://github.com/yjinheon/NLU_STS)
 - [뉴스 요약문 생성 모델 개발](https://github.com/seawavve/NLG_summarization)
 
-## Recent Writings 
- - [[kafka]01. Core Concepts](https://yjinheon.netlify.app/posts/02de/kafka/de-kafka-01_core_concepts/)
- - [[Python]Basic functional Concepts](https://yjinheon.netlify.app/posts/01programming/python/functional/python-01_func_concepts/)
- - [[kafka]Server Properties](https://yjinheon.netlify.app/posts/02de/kafka/de-kafka-90_serverproperties/)
- - [[Python] Closure, Decorator](https://yjinheon.netlify.app/posts/01programming/python/functional/python-02_closure_deco/)
- - [[Java]ArrayList](https://yjinheon.netlify.app/posts/01programming/java/collection/java-collection_01_arraylist/)
+## Recent Writings
 
- Last Updated: 2024-11-20 10:40:17
+- [[Python]01.Basic functional Concepts](https://yjinheon.netlify.app/posts/01programming/python/functional/python-01_func_concepts/)
+- [[kafka]Server Properties](https://yjinheon.netlify.app/posts/02de/kafka/de-kafka-90_serverproperties/)
+- [[design-pattern] Observer Pattern](https://yjinheon.netlify.app/posts/01programming/design-pattern-observer/)
+- [[Python] Closure, Decorator](https://yjinheon.netlify.app/posts/01programming/python/functional/python-02_closure_deco/)
+- [[Java]Generics](https://yjinheon.netlify.app/posts/01programming/java/java-generics/)
+
+Last Updated: 2024-11-17 15:11:44
