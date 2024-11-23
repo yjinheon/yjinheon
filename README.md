@@ -101,12 +101,11 @@ I'm interested in..
 - [한국어 문장의 유사도 분석 모델 훈련 및 서비스화](https://github.com/yjinheon/NLU_STS)
 - [뉴스 요약문 생성 모델 개발](https://github.com/seawavve/NLG_summarization)
 
-## Recent Writings
+## Recent Writings 
+ - [[kafka]02. Kafka 설치하기](https://yjinheon.netlify.app/posts/02de/kafka/de-kafka-02-install/)
+ - [[kafka]01. Core Concepts](https://yjinheon.netlify.app/posts/02de/kafka/de-kafka-01_core_concepts/)
+ - [[Python]Basic functional Concepts](https://yjinheon.netlify.app/posts/01programming/python/functional/python-01_func_concepts/)
+ - [[kafka]Server Properties](https://yjinheon.netlify.app/posts/02de/kafka/de-kafka-90_serverproperties/)
+ - [[Python] Closure, Decorator](https://yjinheon.netlify.app/posts/01programming/python/functional/python-02_closure_deco/)
 
-- [[Python]01.Basic functional Concepts](https://yjinheon.netlify.app/posts/01programming/python/functional/python-01_func_concepts/)
-- [[kafka]Server Properties](https://yjinheon.netlify.app/posts/02de/kafka/de-kafka-90_serverproperties/)
-- [[design-pattern] Observer Pattern](https://yjinheon.netlify.app/posts/01programming/design-pattern-observer/)
-- [[Python] Closure, Decorator](https://yjinheon.netlify.app/posts/01programming/python/functional/python-02_closure_deco/)
-- [[Java]Generics](https://yjinheon.netlify.app/posts/01programming/java/java-generics/)
-
-Last Updated: 2024-11-17 15:11:44
+ Last Updated: 2024-11-23 15:39:19
