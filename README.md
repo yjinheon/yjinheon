@@ -108,4 +108,4 @@ I'm interested in..
  - [[kafka]03. 중요 설정들](https://yjinheon.netlify.app/posts/02de/kafka/de-kafka-03-config/)
  - [[kafka]01. Core Concepts](https://yjinheon.netlify.app/posts/02de/kafka/de-kafka-01_core_concepts/)
 
- Last Updated: 2024-12-15 15:11:48
+ Last Updated: 2024-12-17 13:06:23
