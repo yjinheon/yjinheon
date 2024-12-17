@@ -17,7 +17,7 @@ I',m a Data Engineer, Backend Developer :smiley:
 
 I'm interested in..
 
-- Building Data Pipeline
+- Building Data Pipeline (ETL,ELT..)
 - Batch/Streaming Processing
 - Data Analysis
 - Machine Learning
