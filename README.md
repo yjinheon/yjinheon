@@ -102,10 +102,10 @@ I'm interested in..
 - [뉴스 요약문 생성 모델 개발](https://github.com/seawavve/NLG_summarization)
 
 ## Recent Writings 
+ - [[kafka]06. 내부 매커니즘](https://yjinheon.netlify.app/posts/02de/kafka/de-kafka-07_inside_kafka/)
+ - [[kafka]06. Admin Client API](https://yjinheon.netlify.app/posts/02de/kafka/de-kafka-06-admin_api/)
  - [[kafka]05. 컨슈머](https://yjinheon.netlify.app/posts/02de/kafka/de-kafka-05_consumer/)
  - [[kafka]04. 프로듀서](https://yjinheon.netlify.app/posts/02de/kafka/de-kafka-04_producer/)
  - [[kafka]02. Kafka 설치하기](https://yjinheon.netlify.app/posts/02de/kafka/de-kafka-02-install/)
- - [[kafka]03. 중요 설정들](https://yjinheon.netlify.app/posts/02de/kafka/de-kafka-03-config/)
- - [[kafka]01. Core Concepts](https://yjinheon.netlify.app/posts/02de/kafka/de-kafka-01_core_concepts/)
 
- Last Updated: 2024-12-17 13:06:23
+ Last Updated: 2024-12-22 15:11:36
