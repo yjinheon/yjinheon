@@ -108,4 +108,4 @@ I'm interested in..
  - [[kafka]04. 프로듀서](https://yjinheon.netlify.app/posts/02de/kafka/de-kafka-04_producer/)
  - [[kafka]02. Kafka 설치하기](https://yjinheon.netlify.app/posts/02de/kafka/de-kafka-02-install/)
 
- Last Updated: 2024-12-22 15:11:36
+ Last Updated: 2024-12-29 15:11:44
