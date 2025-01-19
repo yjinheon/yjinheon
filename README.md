@@ -102,10 +102,10 @@ I'm interested in..
 - [뉴스 요약문 생성 모델 개발](https://github.com/seawavve/NLG_summarization)
 
 ## Recent Writings 
+ - [[kafka]Zero Copy in Kafka](https://yjinheon.netlify.app/posts/02de/kafka/de-kafka-zero_copy/)
+ - [[commandline]awk & sd](https://yjinheon.netlify.app/posts/02de/cli-tools/de-cli-awk/)
  - [[kafka]10. Iempotency](https://yjinheon.netlify.app/posts/02de/kafka/de-kafka-10-idempotency/)
  - [[kafka]08. 신뢰성있는 카프카](https://yjinheon.netlify.app/posts/02de/kafka/de-kafka-08-kafka_reliability/)
  - [[kafka]09. DR Hands-on](https://yjinheon.netlify.app/posts/02de/kafka/de-kafka-09-dr_handson/)
- - [[kafka]07. Kafka 내부 매커니즘](https://yjinheon.netlify.app/posts/02de/kafka/de-kafka-07_inside_kafka/)
- - [[kafka]06. Admin Client API](https://yjinheon.netlify.app/posts/02de/kafka/de-kafka-06-admin_api/)
 
- Last Updated: 2025-01-12 15:11:45
+ Last Updated: 2025-01-19 15:11:41
