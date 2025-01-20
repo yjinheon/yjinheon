@@ -108,4 +108,4 @@ I'm interested in..
  - [[kafka]08. 신뢰성있는 카프카](https://yjinheon.netlify.app/posts/02de/kafka/de-kafka-08-kafka_reliability/)
  - [[kafka]09. DR Hands-on](https://yjinheon.netlify.app/posts/02de/kafka/de-kafka-09-dr_handson/)
 
- Last Updated: 2025-01-19 15:11:41
+ Last Updated: 2025-01-20 11:25:55
