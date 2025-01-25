@@ -118,7 +118,7 @@ I'm interested in..
   ._______________.-'____"---._.           
    \                          /
     \________________________/            PC    ➜  LENOVO 21K5CTO1WW
-    (_)                    (_)             ├   ➜  AMD Ryzen 7 PRO 7840U w/ Radeon 780M Graphics (8) @ 5.13 GHz GHz
+    (_)                    (_)             ├   ➜  AMD Ryzen 7 PRO 7840U w/ Radeon 780M Graphics (8) 
                                            ├ 󰢮  ➜  AMD AMD Radeon 780M @  GHz
                                            └   ➜  AUOFA9B 1920x1200@161.951Hz
 
