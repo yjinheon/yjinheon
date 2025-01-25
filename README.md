@@ -7,7 +7,7 @@
 
 -->
 
-<a href="https://yjinheon.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/></a>
+<a href="https://yjinheon.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat_square&logo=netlify&logoColor=white"/></a>
 <a href="mailto:yjinheon@gmail.com" target="_blank"><img src="https://img.shields.io/badge/yjinheon@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/jin-heon-yoon-583842178/" target="_blank"><img src="https://img.shields.io/badge/JinheonYoon-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a> [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyjinheon%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
@@ -115,4 +115,10 @@ I'm interested in..
  - [[kafka]10. Iempotency](https://yjinheon.netlify.app/posts/02de/kafka/de-kafka-10-idempotency/) (2025-01-10)
  - [[kafka]08. 신뢰성있는 카프카](https://yjinheon.netlify.app/posts/02de/kafka/de-kafka-08-kafka_reliability/) (2025-01-05)
 
- Last Updated: 2025-01-25 13:49:57
+- [[nix]기본 shell 변경하기](https://yjinheon.netlify.app/posts/05system/nix/system-nix-change_default_shell/) (2025-01-23)
+- [[kafka]Zero Copy in Kafka](https://yjinheon.netlify.app/posts/02de/kafka/de-kafka-zero_copy/) (2025-01-21)
+- [[commandline]awk & sd](https://yjinheon.netlify.app/posts/02de/cli-tools/de-cli-awk/) (2025-01-15)
+- [[kafka]10. Iempotency](https://yjinheon.netlify.app/posts/02de/kafka/de-kafka-10-idempotency/) (2025-01-10)
+- [[kafka]08. 신뢰성있는 카프카](https://yjinheon.netlify.app/posts/02de/kafka/de-kafka-08-kafka_reliability/) (2025-01-05)
+
+
