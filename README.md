@@ -136,4 +136,4 @@ I'm interested in..
  - [[kafka]10. Iempotency](https://yjinheon.netlify.app/posts/02de/kafka/de-kafka-10-idempotency/) (2025-01-10)
  - [[kafka]08. 신뢰성있는 카프카](https://yjinheon.netlify.app/posts/02de/kafka/de-kafka-08-kafka_reliability/) (2025-01-05)
 
- Last Updated: 2025-01-25 15:53:36
+ Last Updated: 2025-01-25 15:54:31
