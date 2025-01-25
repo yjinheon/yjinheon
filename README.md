@@ -24,8 +24,6 @@ I'm interested in..
 - TUI , CLI applications to help my dev workflow
 - Linux Window Managers like Hyprland, awesomewm
 
-[![Jin Heon's GitHub stats](https://github-readme-stats.vercel.app/api?username=yjinheon&count_private=true&hide=stars&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
 ## Skills
 
 <table>
@@ -38,6 +36,7 @@ I'm interested in..
     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=yellow" height="20" align="middle"/></a>
     <img src="https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" height="18" align="middle"/></a>
     <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" height="20" align="middle"></a>
+    <img src="https://img.shields.io/badge/-SQL-000?style=for-the-badge&logo=MySQL&logoColor=4479A1" height="20" align="middle"></a>
   </td>
 </tr>
 <tr>
@@ -45,6 +44,7 @@ I'm interested in..
   </td>
    <td>
     <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white" height="20" align="middle"></a>
+    <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" height="20" align="middle"></a>
     <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" height="20" align="middle"></a>
     <img src="https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FastAPI&logoColor=white" height="20" align="middle"></a>
     <img src="https://img.shields.io/badge/Apache_Spark-FFFFFF?style=for-the-badge&logo=apachespark&logoColor=#E35A16" height="20" align="middle"></a>
@@ -59,6 +59,7 @@ I'm interested in..
    <td>
    <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" height="20" align="middle"></a>
      <h4>I ure Arch, BTW </h4>
+   <img src="https://img.shields.io/badge/NixOS-5277C3?style=for-the-badge&logo=nixos&logoColor=white" height="20" align="middle"></a>
    <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" height="20" align="middle"></a>
   </td>
 </tr>
@@ -69,7 +70,6 @@ I'm interested in..
    <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white" height="20" align="middle"></a>
    <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" height="20" align="middle"></a>
    <img src="https://img.shields.io/badge/dbeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white" height="20" align="middle"></a>
-   <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" height="20" align="middle"></a>
    <img src="https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=WeightsAndBiases&logoColor=white" height="20" align="middle"></a>
    <img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white" height="20" align="middle"></a>
   </td>
@@ -83,6 +83,13 @@ I'm interested in..
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" height="20" align="middle"/></a>
 <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white" height="20" align="middle"/></a>
 <img src="https://img.shields.io/badge/Elastic_Search-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" height="20" align="middle"/></a>
+  </td>
+</tr>
+<tr>
+  <td> Cloud
+  </td>
+   <td>
+<img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" height="20" align="middle"></a>
   </td>
 </tr>
 </table>
@@ -102,10 +109,10 @@ I'm interested in..
 - [뉴스 요약문 생성 모델 개발](https://github.com/seawavve/NLG_summarization)
 
 ## Recent Writings 
- - [[kafka]Zero Copy in Kafka](https://yjinheon.netlify.app/posts/02de/kafka/de-kafka-zero_copy/)
- - [[commandline]awk & sd](https://yjinheon.netlify.app/posts/02de/cli-tools/de-cli-awk/)
- - [[kafka]10. Iempotency](https://yjinheon.netlify.app/posts/02de/kafka/de-kafka-10-idempotency/)
- - [[kafka]08. 신뢰성있는 카프카](https://yjinheon.netlify.app/posts/02de/kafka/de-kafka-08-kafka_reliability/)
- - [[kafka]09. DR Hands-on](https://yjinheon.netlify.app/posts/02de/kafka/de-kafka-09-dr_handson/)
+ - [[nix]기본 shell 변경하기](https://yjinheon.netlify.app/posts/05system/nix/system-nix-change_default_shell/) (2025-01-23)
+ - [[kafka]Zero Copy in Kafka](https://yjinheon.netlify.app/posts/02de/kafka/de-kafka-zero_copy/) (2025-01-21)
+ - [[commandline]awk & sd](https://yjinheon.netlify.app/posts/02de/cli-tools/de-cli-awk/) (2025-01-15)
+ - [[kafka]10. Iempotency](https://yjinheon.netlify.app/posts/02de/kafka/de-kafka-10-idempotency/) (2025-01-10)
+ - [[kafka]08. 신뢰성있는 카프카](https://yjinheon.netlify.app/posts/02de/kafka/de-kafka-08-kafka_reliability/) (2025-01-05)
 
- Last Updated: 2025-01-20 11:25:55
+ Last Updated: 2025-01-25 13:37:39
