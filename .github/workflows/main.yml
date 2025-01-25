@@ -29,7 +29,9 @@ jobs:
         with:
           python-version: "3.10"
       - name: 💿 Install requirements.txt
-        run: pip install -r requirements.txt
+        run: |
+           python -m pip install --upgrade pip
+           pip install -r ${GITHUB_WORKSPACE}/.github/requirements.txt
       - name: 🍳 Update README
         run: |
           cd ${GITHUB_WORKSPACE}/.github/
