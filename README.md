@@ -108,14 +108,11 @@ I'm interested in..
 - [한국어 문장의 유사도 분석 모델 훈련 및 서비스화](https://github.com/yjinheon/NLU_STS)
 - [뉴스 요약문 생성 모델 개발](https://github.com/seawavve/NLG_summarization)
 
-## Recent Writings
+## Recent Writings 
+ - [[nix]기본 shell 변경하기](https://yjinheon.netlify.app/posts/05system/nix/system-nix-change_default_shell/) (2025-01-23)
+ - [[kafka]Zero Copy in Kafka](https://yjinheon.netlify.app/posts/02de/kafka/de-kafka-zero_copy/) (2025-01-21)
+ - [[commandline]awk & sd](https://yjinheon.netlify.app/posts/02de/cli-tools/de-cli-awk/) (2025-01-15)
+ - [[kafka]10. Iempotency](https://yjinheon.netlify.app/posts/02de/kafka/de-kafka-10-idempotency/) (2025-01-10)
+ - [[kafka]08. 신뢰성있는 카프카](https://yjinheon.netlify.app/posts/02de/kafka/de-kafka-08-kafka_reliability/) (2025-01-05)
 
-- [[nix]기본 shell 변경하기](https://yjinheon.netlify.app/posts/05system/nix/system-nix-change_default_shell/) (2025-01-23)
-- [[kafka]Zero Copy in Kafka](https://yjinheon.netlify.app/posts/02de/kafka/de-kafka-zero_copy/) (2025-01-21)
-- [[commandline]awk & sd](https://yjinheon.netlify.app/posts/02de/cli-tools/de-cli-awk/) (2025-01-15)
-- [[kafka]10. Iempotency](https://yjinheon.netlify.app/posts/02de/kafka/de-kafka-10-idempotency/) (2025-01-10)
-- [[kafka]08. 신뢰성있는 카프카](https://yjinheon.netlify.app/posts/02de/kafka/de-kafka-08-kafka_reliability/) (2025-01-05)
-
-Last Updated: 2025-01-25 13:37:39
-
- Last Updated: 2025-01-25 13:39:14
+ Last Updated: 2025-01-25 13:49:57
