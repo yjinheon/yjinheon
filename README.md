@@ -103,6 +103,27 @@ I'm interested in..
 
 -->
 
+## Current Work Env
+
+```bash
+                                         OS    ➜  EndeavourOS x86_64k
+       ,.,                                 ├   ➜  Linux 6.6.72-1-lts
+       MMMM_    ,..,                       ├ 󰏖  ➜  1991 (pacman)
+         "_ "__"MMMMM          ,...,,      └   ➜  zsh 5.9
+ MMMMMM"___ "_._   MMM"_."" _ """"""
+  """""    "" , \_.   "_. ."              WM    ➜  Hyprland 0.46.2 (Wayland)
+         ,., _"__ \__./ ."                 ├ 󰀻  ➜  breeze [GTK2/3/4]
+        MMMMM_"  "_    ./                  ├   ➜  breeze (24px)
+         ''''      (    )                  ├   ➜  alacritty 0.15.0
+  ._______________.-'____"---._.           
+   \                          /
+    \________________________/            PC    ➜  LENOVO 21K5CTO1WW
+    (_)                    (_)             ├   ➜  AMD Ryzen 7 PRO 7840U w/ Radeon 780M Graphics (8) @ 5.13 GHz GHz
+                                           ├ 󰢮  ➜  AMD AMD Radeon 780M @  GHz
+                                           └   ➜  AUOFA9B 1920x1200@161.951Hz
+
+```
+
 ## Projects
 
 - [한국어 문장의 유사도 분석 모델 훈련 및 서비스화](https://github.com/yjinheon/NLU_STS)
