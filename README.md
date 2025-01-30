@@ -136,4 +136,4 @@ I'm interested in..
  - [[kafka]Zero Copy in Kafka](https://yjinheon.netlify.app/posts/02de/kafka/de-kafka-zero_copy/) (2025-01-21)
  - [[commandline]awk & sd](https://yjinheon.netlify.app/posts/02de/cli-tools/de-cli-awk/) (2025-01-15)
 
- Last Updated: 2025-01-29 09:00:49
+ Last Updated: 2025-01-30 09:00:48
