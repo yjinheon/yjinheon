@@ -132,8 +132,8 @@ I'm interested in..
 ## Recent Writings 
  - [[Kotlin] '객체에서 함수로' 책 리뷰](https://yjinheon.netlify.app/posts/01programming/kotlin/kotlin-book_funtional/) (2025-01-30)
  - [[AI]AI Tools](https://yjinheon.netlify.app/posts/90tools/ai-tools/) (2025-01-30)
+ - [[draft]블로그 용어사전](https://yjinheon.netlify.app/posts/80draft/draft-words/) (2025-01-29)
  - [[nix]기본 shell 변경하기](https://yjinheon.netlify.app/posts/05system/nix/system-nix-change_default_shell/) (2025-01-23)
  - [[kafka]Zero Copy in Kafka](https://yjinheon.netlify.app/posts/02de/kafka/de-kafka-zero_copy/) (2025-01-21)
- - [[commandline]awk & sd](https://yjinheon.netlify.app/posts/02de/cli-tools/de-cli-awk/) (2025-01-15)
 
- Last Updated: 2025-01-30 09:00:48
+ Last Updated: 2025-01-31 09:00:48
