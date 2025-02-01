@@ -136,4 +136,4 @@ I'm interested in..
  - [[nix]기본 shell 변경하기](https://yjinheon.netlify.app/posts/05system/nix/system-nix-change_default_shell/) (2025-01-23)
  - [[kafka]Zero Copy in Kafka](https://yjinheon.netlify.app/posts/02de/kafka/de-kafka-zero_copy/) (2025-01-21)
 
- Last Updated: 2025-01-31 09:00:48
+ Last Updated: 2025-02-01 09:00:46
