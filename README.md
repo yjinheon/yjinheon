@@ -136,4 +136,4 @@ I'm interested in..
  - [[AI]AI Tools](https://yjinheon.netlify.app/posts/90tools/ai-tools/) (2025-01-30)
  - [[draft]블로그 용어사전](https://yjinheon.netlify.app/posts/80draft/draft-words/) (2025-01-29)
 
- Last Updated: 2025-02-13 09:00:50
+ Last Updated: 2025-02-14 09:00:50
