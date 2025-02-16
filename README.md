@@ -136,4 +136,4 @@ I'm interested in..
  - [[Kotlin] '객체에서 함수로' 책 리뷰](https://yjinheon.netlify.app/posts/01programming/kotlin/kotlin-book_funtional/) (2025-01-30)
  - [[AI]AI Tools](https://yjinheon.netlify.app/posts/90tools/ai-tools/) (2025-01-30)
 
- Last Updated: 2025-02-15 09:00:45
+ Last Updated: 2025-02-16 09:00:47
