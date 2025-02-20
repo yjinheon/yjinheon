@@ -58,7 +58,7 @@ I'm interested in..
   </td>
    <td>
    <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" height="20" align="middle"></a>
-     <h4>I ure Arch, BTW </h4>
+     <h4>I use Arch, BTW </h4>
    <img src="https://img.shields.io/badge/NixOS-5277C3?style=for-the-badge&logo=nixos&logoColor=white" height="20" align="middle"></a>
    <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" height="20" align="middle"></a>
   </td>
@@ -115,7 +115,7 @@ I'm interested in..
          ,., _"__ \__./ ."                 ├ 󰀻  ➜  breeze [GTK2/3/4]
         MMMMM_"  "_    ./                  ├   ➜  breeze (24px)
          ''''      (    )                  ├   ➜  alacritty 0.15.0
-  ._______________.-'____"---._.           
+  ._______________.-'____"---._.
    \                          /
     \________________________/            PC    ➜  LENOVO 21K5CTO1WW
     (_)                    (_)             ├   ➜  AMD Ryzen 7 PRO 7840U w/ Radeon 780M Graphics (8) 
