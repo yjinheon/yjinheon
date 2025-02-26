@@ -130,10 +130,10 @@ I'm interested in..
 - [뉴스 요약문 생성 모델 개발](https://github.com/seawavve/NLG_summarization)
 
 ## Recent Writings 
+ - [[kafka]15. Streams](https://yjinheon.netlify.app/posts/02de/kafka/de-kafka-15-kafka_streams/) (2025-02-22)
  - [[kafka]11. pipeline](https://yjinheon.netlify.app/posts/02de/kafka/de-kafka-11-building_pipeline/) (2025-02-14)
+ - [[kafka]14. 모니터링](https://yjinheon.netlify.app/posts/02de/kafka/de-kafka-14-kafka_monitoring/) (2025-02-14)
  - [[ML]LLM 구축의 절차](https://yjinheon.netlify.app/posts/04ml/llm/building_llm/) (2025-02-14)
  - [[kafka]12. 클러스터간 미러링](https://yjinheon.netlify.app/posts/02de/kafka/de-kafka-12-kafka_cluster/) (2025-02-01)
- - [[Kotlin] '객체에서 함수로' 책 리뷰](https://yjinheon.netlify.app/posts/01programming/kotlin/kotlin-book_funtional/) (2025-01-30)
- - [[AI]AI Tools](https://yjinheon.netlify.app/posts/90tools/ai-tools/) (2025-01-30)
 
- Last Updated: 2025-02-25 09:00:45
+ Last Updated: 2025-02-26 09:00:45
