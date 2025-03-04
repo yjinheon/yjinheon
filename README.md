@@ -136,4 +136,4 @@ I'm interested in..
  - [[ML]LLM 구축의 절차](https://yjinheon.netlify.app/posts/04ml/llm/building_llm/) (2025-02-14)
  - [[kafka]12. 클러스터간 미러링](https://yjinheon.netlify.app/posts/02de/kafka/de-kafka-12-kafka_cluster/) (2025-02-01)
 
- Last Updated: 2025-03-03 09:00:47
+ Last Updated: 2025-03-04 09:00:45
