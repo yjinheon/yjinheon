@@ -136,4 +136,4 @@ I'm interested in..
  - [[kafka]11. pipeline](https://yjinheon.netlify.app/posts/02de/kafka/de-kafka-11_building_pipeline/) (2025-02-14)
  - [[kafka]14. 모니터링](https://yjinheon.netlify.app/posts/02de/kafka/de-kafka-14_kafka_monitoring/) (2025-02-14)
 
- Last Updated: 2025-03-12 09:00:44
+ Last Updated: 2025-03-13 09:00:44
