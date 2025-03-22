@@ -130,10 +130,10 @@ I'm interested in..
 - [뉴스 요약문 생성 모델 개발](https://github.com/seawavve/NLG_summarization)
 
 ## Recent Writings 
+ - [[Kubernetes]03. Troubleshooting](https://yjinheon.netlify.app/posts/05system/k8s/k8s_03_troubleshooting/) (2025-03-21)
  - [[Kubernetes]02. 기본명령어와 오브젝트](https://yjinheon.netlify.app/posts/05system/k8s/k8s_02_commands/) (2025-03-14)
  - [[Kubernetes]01. 기본 컨셉과 설치](https://yjinheon.netlify.app/posts/05system/k8s/k8s_01_install/) (2025-03-07)
  - [[kafka]15. Streams](https://yjinheon.netlify.app/posts/02de/kafka/de-kafka-15-kafka_streams/) (2025-02-22)
  - [[kafka]15. Streams](https://yjinheon.netlify.app/posts/02de/kafka/de-kafka-15_kafka_streams/) (2025-02-22)
- - [[kafka]11. pipeline](https://yjinheon.netlify.app/posts/02de/kafka/de-kafka-11_building_pipeline/) (2025-02-14)
 
- Last Updated: 2025-03-21 09:00:44
+ Last Updated: 2025-03-22 09:00:51
