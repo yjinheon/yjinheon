@@ -12,9 +12,8 @@
 <a href="https://www.linkedin.com/in/jin-heon-yoon-583842178/" target="_blank"><img src="https://img.shields.io/badge/JinheonYoon-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a> 
 
 
-## Hi!
 
-I',m a Data Engineer, Backend Developer :smiley:
+Data Engineer, Backend Developer :smiley:
 
 I'm interested in..
 
