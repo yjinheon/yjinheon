@@ -136,4 +136,4 @@ I'm interested in..
  - [[Kubernetes]02. 기본명령어와 오브젝트](https://yjinheon.netlify.app/posts/05system/k8s/k8s_02_commands/) (2025-03-14)
  - [[Kubernetes]01. 기본 컨셉과 설치](https://yjinheon.netlify.app/posts/05system/k8s/k8s_01_install/) (2025-03-07)
 
- Last Updated: 2025-05-16 09:00:39
+ Last Updated: 2025-05-17 09:00:38
