@@ -130,10 +130,10 @@ I'm interested in..
 - [뉴스 요약문 생성 모델 개발](https://github.com/seawavve/NLG_summarization)
 
 ## Recent Writings 
+ - [[commandline]상황별 유용한 CLI 도구들](https://yjinheon.netlify.app/posts/02de/cli-tools/de-tui-tools/) (2025-05-22)
+ - [[Kubernetes]05. CD/CD with ArgoCD](https://yjinheon.netlify.app/posts/05system/k8s/k8s_05_cicd/) (2025-04-21)
  - [[Airflow]TaskFlow API의 XCom 생성 및 DB 저장 흐름](https://yjinheon.netlify.app/posts/02de/airflow/de-airflow-04_taskflow_xcom/) (2025-04-03)
  - [[Kubernetes]04. Services](https://yjinheon.netlify.app/posts/05system/k8s/k8s_04_services/) (2025-03-28)
- - [[Kubernetes]03. Troubleshooting](https://yjinheon.netlify.app/posts/05system/k8s/k8s_03_troubleshooting/) (2025-03-21)
- - [[Kubernetes]02. 기본명령어와 오브젝트](https://yjinheon.netlify.app/posts/05system/k8s/k8s_02_commands/) (2025-03-14)
- - [[Kubernetes]01. 기본 컨셉과 설치](https://yjinheon.netlify.app/posts/05system/k8s/k8s_01_install/) (2025-03-07)
+ - [[Kubernetes]07. Prometheus](https://yjinheon.netlify.app/posts/05system/k8s/k8s_07_prometheus/) (2025-03-28)
 
- Last Updated: 2025-05-23 09:00:43
+ Last Updated: 2025-05-24 09:00:44
