@@ -136,4 +136,4 @@ I'm interested in..
  - [[Kubernetes]04. Services](https://yjinheon.netlify.app/posts/05system/k8s/k8s_04_services/) (2025-03-28)
  - [[Kubernetes]07. Prometheus](https://yjinheon.netlify.app/posts/05system/k8s/k8s_07_prometheus/) (2025-03-28)
 
- Last Updated: 2025-05-27 09:00:39
+ Last Updated: 2025-05-28 09:00:46
