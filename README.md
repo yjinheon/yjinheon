@@ -136,4 +136,4 @@ I'm interested in..
  - [[Kubernetes]05. CD/CD with ArgoCD](https://yjinheon.netlify.app/posts/05system/k8s/k8s_05_cicd/) (2025-04-21)
  - [[Airflow]TaskFlow API의 XCom 생성 및 DB 저장 흐름](https://yjinheon.netlify.app/posts/02de/airflow/de-airflow-04_taskflow_xcom/) (2025-04-03)
 
- Last Updated: 2025-06-03 09:00:39
+ Last Updated: 2025-06-04 09:00:41
