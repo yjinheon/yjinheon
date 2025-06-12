@@ -136,4 +136,4 @@ I'm interested in..
  - [[commandline]상황별 유용한 CLI 도구들](https://yjinheon.netlify.app/posts/02de/cli-tools/de-tui-tools/) (2025-05-22)
  - [[testing]Testing Fundamentals](https://yjinheon.netlify.app/posts/03be/test/test-01-fundamentals/) (2025-05-11)
 
- Last Updated: 2025-06-11 09:00:46
+ Last Updated: 2025-06-12 09:00:44
