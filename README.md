@@ -130,10 +130,10 @@ I'm interested in..
 - [뉴스 요약문 생성 모델 개발](https://github.com/seawavve/NLG_summarization)
 
 ## Recent Writings 
- - [[MSA]Index TEST](https://yjinheon.netlify.app/posts/03be/msa/msa_00_index/) (2025-06-09)
+ - [[MSA]Modular Monolithic Architecture](https://yjinheon.netlify.app/posts/03be/msa/msa_04_modular_monolithic/) (2025-06-10)
+ - [[MSA]Major Patterns](https://yjinheon.netlify.app/posts/03be/msa/msa_02_major_patterns/) (2025-06-09)
+ - [[MSA]Monolithic Architecture](https://yjinheon.netlify.app/posts/03be/msa/msa_03_monolithic_architecture/) (2025-06-09)
  - [[Kubernetes]09. Alertmanager](https://yjinheon.netlify.app/posts/05system/k8s/k8s_09_alertmanager/) (2025-05-28)
  - [[Kubernetes]10. Loki](https://yjinheon.netlify.app/posts/05system/k8s/k8s_10_loki/) (2025-05-28)
- - [[commandline]상황별 유용한 CLI 도구들](https://yjinheon.netlify.app/posts/02de/cli-tools/de-tui-tools/) (2025-05-22)
- - [[testing]Testing Fundamentals](https://yjinheon.netlify.app/posts/03be/test/test-01-fundamentals/) (2025-05-11)
 
- Last Updated: 2025-06-12 09:00:44
+ Last Updated: 2025-06-13 09:00:53
