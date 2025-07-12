@@ -136,4 +136,4 @@ I'm interested in..
  - [[Kubernetes]09. Alertmanager](https://yjinheon.netlify.app/posts/05system/k8s/k8s_09_alertmanager/) (2025-05-28)
  - [[Kubernetes]10. Loki](https://yjinheon.netlify.app/posts/05system/k8s/k8s_10_loki/) (2025-05-28)
 
- Last Updated: 2025-07-11 09:00:34
+ Last Updated: 2025-07-12 09:00:47
