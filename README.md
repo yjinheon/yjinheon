@@ -80,9 +80,8 @@ I'm interested in..
   </td>
    <td>
    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" height="20" align="middle"/></a>
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" height="20" align="middle"/></a>
+<img src="https://img.shields.io/badge/Duckdb-000000?style=for-the-badge&logo=Duckdb&logoColor=yellow" height="20" align="middle"/></a>
 <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white" height="20" align="middle"/></a>
-<img src="https://img.shields.io/badge/Elastic_Search-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" height="20" align="middle"/></a>
   </td>
 </tr>
 <tr>
@@ -90,6 +89,7 @@ I'm interested in..
   </td>
    <td>
 <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" height="20" align="middle"></a>
+<img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" height="20" align="middle"></a>
   </td>
 </tr>
 </table>
@@ -106,26 +106,27 @@ I'm interested in..
 ## Current Work Env
 
 ```bash
-                                         OS    ➜  EndeavourOS x86_64k
-       ,.,                                 ├   ➜  Linux 6.6.72-1-lts
-       MMMM_    ,..,                       ├ 󰏖  ➜  1991 (pacman)
+
+                                          OS    ➜  EndeavourOS x86_64
+       ,.,                                 ├   ➜  Linux 6.12.39-1-lts
          "_ "__"MMMMM          ,...,,      └   ➜  zsh 5.9
  MMMMMM"___ "_._   MMM"_."" _ """"""
-  """""    "" , \_.   "_. ."              WM    ➜  Hyprland 0.46.2 (Wayland)
-         ,., _"__ \__./ ."                 ├ 󰀻  ➜  breeze [GTK2/3/4]
+  """""    "" , \_.   "_. ."              WM    ➜  Hyprland 0.50.1 (Wayland)
+         ,., _"__ \__./ ."                 ├ 󰀻  ➜  breeze-dark [GTK2/3/4]
         MMMMM_"  "_    ./                  ├   ➜  breeze (24px)
-         ''''      (    )                  ├   ➜  alacritty 0.15.0
+         ''''      (    )                  ├   ➜  zellij 0.40.1
   ._______________.-'____"---._.
-   \                          /
-    \________________________/            PC    ➜  LENOVO 21K5CTO1WW
-    (_)                    (_)             ├   ➜  AMD Ryzen 7 PRO 7840U w/ Radeon 780M Graphics (8) 
-                                           ├ 󰢮  ➜  AMD AMD Radeon 780M @  GHz
+   \                          /           PC    ➜  LENOVO 21K5CTO1WW
+    \________________________/             ├   ➜  AMD Ryzen 7 PRO 7840U (8) @ 5.13 GHz GHz
+    (_)                    (_)             ├ 󰢮  ➜  AMD AMD Radeon 780M Graphics @  GHz
+                                           ├ 󰓡  ➜  Disabled
+                                           └   ➜  LG FHD 1920x1080@81.1351Hz
                                            └   ➜  AUOFA9B 1920x1200@161.951Hz
-
 ```
 
 ## Projects
 
+- [Airflow-TUI](https://github.com/yjinheon/airflow-tui)
 - [한국어 문장의 유사도 분석 모델 훈련 및 서비스화](https://github.com/yjinheon/NLU_STS)
 - [뉴스 요약문 생성 모델 개발](https://github.com/seawavve/NLG_summarization)
 
