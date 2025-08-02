@@ -137,4 +137,4 @@ I'm interested in..
  - [[MSA]Major Patterns](https://yjinheon.netlify.app/posts/03be/msa/msa_02_major_patterns/) (2025-06-09)
  - [[Kubernetes]09. Alertmanager](https://yjinheon.netlify.app/posts/05system/k8s/k8s_09_alertmanager/) (2025-05-28)
 
- Last Updated: 2025-08-01 09:00:45
+ Last Updated: 2025-08-02 09:00:47
