@@ -131,10 +131,10 @@ I'm interested in..
 - [뉴스 요약문 생성 모델 개발](https://github.com/seawavve/NLG_summarization)
 
 ## Recent Writings 
+ - [[DW]Fact Table](https://yjinheon.netlify.app/posts/02de/data-warehouse/de-dw-02_fact_table/) (2025-08-06)
+ - [[DW]Dimensional Modeling: Basics](https://yjinheon.netlify.app/posts/02de/data-warehouse/de-dw-01_dm_basics/) (2025-08-05)
  - [[Java]off-heap](https://yjinheon.netlify.app/posts/01programming/java/java-off_heap/) (2025-07-28)
  - [[MSA]Modular Monolithic Architecture](https://yjinheon.netlify.app/posts/03be/msa/msa_04_modular_monolithic/) (2025-06-10)
  - [[MSA]Monolithic Architecture](https://yjinheon.netlify.app/posts/03be/msa/msa_03_monolithic_architecture/) (2025-06-09)
- - [[MSA]Major Patterns](https://yjinheon.netlify.app/posts/03be/msa/msa_02_major_patterns/) (2025-06-09)
- - [[Kubernetes]09. Alertmanager](https://yjinheon.netlify.app/posts/05system/k8s/k8s_09_alertmanager/) (2025-05-28)
 
- Last Updated: 2025-08-07 09:00:42
+ Last Updated: 2025-08-08 09:00:39
