@@ -137,4 +137,4 @@ I'm interested in..
  - [[MSA]Modular Monolithic Architecture](https://yjinheon.netlify.app/posts/03be/msa/msa_04_modular_monolithic/) (2025-06-10)
  - [[MSA]Monolithic Architecture](https://yjinheon.netlify.app/posts/03be/msa/msa_03_monolithic_architecture/) (2025-06-09)
 
- Last Updated: 2025-08-08 09:00:39
+ Last Updated: 2025-08-09 09:00:43
