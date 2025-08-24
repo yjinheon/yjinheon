@@ -137,4 +137,4 @@ I'm interested in..
  - [[DW]Dimensional Modeling: Basics](https://yjinheon.netlify.app/posts/02de/data-warehouse/de-dw-01_dm_basics/) (2025-08-05)
  - [[Java]off-heap](https://yjinheon.netlify.app/posts/01programming/java/java-off_heap/) (2025-07-28)
 
- Last Updated: 2025-08-23 09:00:44
+ Last Updated: 2025-08-24 09:00:44
