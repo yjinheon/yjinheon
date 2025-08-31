@@ -131,10 +131,10 @@ I'm interested in..
 - [뉴스 요약문 생성 모델 개발](https://github.com/seawavve/NLG_summarization)
 
 ## Recent Writings 
+ - [[Spring]Applcation Context와 관련 컨셉들](https://yjinheon.netlify.app/posts/03be/01frameworks/spring/basics/spring-application-context/) (2025-08-19)
  - [[spark]01. HDFS, YARN](https://yjinheon.netlify.app/posts/02de/spark/de-spark-01-concepts/) (2025-08-11)
- - [[Spring]MDC(Mapped Diagnostic Context)](https://yjinheon.netlify.app/posts/03be/01frameworks/spring/spring-mdc/) (2025-08-09)
+ - [[spark]03. 스파크 RDD](https://yjinheon.netlify.app/posts/02de/spark/de-spark-03-rdd/) (2025-08-11)
+ - [[spring]mdc(mapped diagnostic context)](https://yjinheon.netlify.app/posts/03be/01frameworks/spring/spring-mdc/) (2025-08-09)
  - [[DW]Fact Table](https://yjinheon.netlify.app/posts/02de/data-warehouse/de-dw-02_fact_table/) (2025-08-06)
- - [[DW]Dimensional Modeling: Basics](https://yjinheon.netlify.app/posts/02de/data-warehouse/de-dw-01_dm_basics/) (2025-08-05)
- - [[Java]off-heap](https://yjinheon.netlify.app/posts/01programming/java/java-off_heap/) (2025-07-28)
 
- Last Updated: 2025-08-30 09:00:48
+ Last Updated: 2025-08-31 09:00:55
