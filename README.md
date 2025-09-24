@@ -137,4 +137,4 @@ I'm interested in..
  - [[spark]03. 스파크 RDD](https://yjinheon.netlify.app/posts/02de/spark/de-spark-03-rdd/) (2025-08-11)
  - [[spring]mdc(mapped diagnostic context)](https://yjinheon.netlify.app/posts/03be/00frameworks/spring/spring-mdc/) (2025-08-09)
 
- Last Updated: 2025-09-23 09:00:57
+ Last Updated: 2025-09-24 09:00:57
