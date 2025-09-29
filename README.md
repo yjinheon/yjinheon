@@ -137,4 +137,4 @@ I'm interested in..
  - [[spring]mdc(mapped diagnostic context)](https://yjinheon.netlify.app/posts/03be/00frameworks/spring/spring-mdc/) (2025-08-09)
  - [[DW]Fact Table](https://yjinheon.netlify.app/posts/02de/data-warehouse/de-dw-02_fact_table/) (2025-08-06)
 
- Last Updated: 2025-09-28 09:01:01
+ Last Updated: 2025-09-29 09:01:00
