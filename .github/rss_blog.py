@@ -29,8 +29,7 @@ def update_readme(readme_base, rss_title):
 
         formatted_date = parsed_date.strftime("%Y-%m-%d")
         posts.append(
-            f" - [{entry['title']}]({entry['links'][0]
-                                     ['href']}) ({formatted_date})"
+            f" - [{entry['title']}]({entry['links'][0]['href']}) ({formatted_date})"
         )
 
     posts_joined = "\n".join(posts)
