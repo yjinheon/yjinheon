@@ -47,8 +47,7 @@ def update_readme(readme_base, rss_title):
 rss_title = "## Recent Writings"
 readme = Path("../README.md").read_text()
 updated_readme = update_readme(readme, rss_title)
-updated_time = f"\n Last Updated: {datetime.now(
-    pytz.timezone('Asia/Seoul')).strftime('%Y-%m-%d %H:%M:%S')}"
+updated_time = f"\n Last Updated: {datetime.now(pytz.timezone('Asia/Seoul')).strftime('%Y-%m-%d %H:%M:%S')}"
 
 with open("../README.md", "w") as f:
     f.write(updated_readme)
