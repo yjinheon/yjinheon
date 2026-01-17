@@ -19,7 +19,7 @@ def update_readme(readme_base, rss_title):
 
     for entry in entries:
         if entry["updated"]:
-            parsed_date = datetime.striptime(
+            parsed_date = datetime.strptime(
                 entry["updated"], "%a, %d %b %Y %H:%M:%S %Z"
             )
         else:
