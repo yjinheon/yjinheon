@@ -137,4 +137,4 @@ I'm interested in..
  - [[Spring]Applcation Context와 관련 컨셉들](https://yjinheon.netlify.app/posts/03be/00frameworks/spring/basics/spring-application-context/) (2025-08-19)
  - [[spark]01. HDFS, YARN](https://yjinheon.netlify.app/posts/02de/spark/de-spark-01-concepts/) (2025-08-11)
 
- Last Updated: 2026-01-17 16:49:59
+ Last Updated: 2026-01-18 13:26:02
