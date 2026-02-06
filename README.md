@@ -137,4 +137,4 @@ I'm interested in..
  - [[Agent]Claude Code에서 Prompt Caching하기](https://yjinheon.netlify.app/posts/04ml/agent/prompt_caching/) (2025-12-17)
  - [[DB]Log-Structured vs Page-Oriented](https://yjinheon.netlify.app/posts/05system/data-intensive/03_db_engine_searching/) (2025-09-06)
 
- Last Updated: 2026-02-01 13:51:28
+ Last Updated: 2026-02-06 10:53:08
