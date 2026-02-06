@@ -126,7 +126,7 @@ I'm interested in..
 
 ## Projects
 
-- [Airflow-TUI](https://github.com/yjinheon/airflow-tui)
+- [lazyflow](https://github.com/yjinheon/lazyflow)
 - [한국어 문장의 유사도 분석 모델 훈련 및 서비스화](https://github.com/yjinheon/NLU_STS)
 - [뉴스 요약문 생성 모델 개발](https://github.com/seawavve/NLG_summarization)
 
