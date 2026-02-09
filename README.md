@@ -12,7 +12,6 @@
 <a href="https://www.linkedin.com/in/jin-heon-yoon-583842178/" target="_blank"><img src="https://img.shields.io/badge/JinheonYoon-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a> 
 
 
-
 Data Engineer, Backend Developer :smiley:
 
 I'm interested in..
@@ -40,19 +39,28 @@ I'm interested in..
   </td>
 </tr>
 <tr>
-   <td> Frameworks & Library
+   <td> Data Engineering
   </td>
    <td>
     <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white" height="20" align="middle"></a>
     <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" height="20" align="middle"></a>
+    <img src="https://img.shields.io/badge/Apache_Spark-FFFFFF?style=for-the-badge&logo=apachespark&logoColor=#E35A16" height="20" align="middle"></a>
+    <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" height="20" align="middle"></a>
+    <img src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white" height="20" align="middle"></a>
+  </td>
+</tr>
+<tr>
+   <td> Frameworks & Library
+  </td>
+   <td>
     <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" height="20" align="middle"></a>
     <img src="https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FastAPI&logoColor=white" height="20" align="middle"></a>
-    <img src="https://img.shields.io/badge/Apache_Spark-FFFFFF?style=for-the-badge&logo=apachespark&logoColor=#E35A16" height="20" align="middle"></a>
     <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white" height="20" align="middle"></a>
     <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" height="20" align="middle"></a>
     <img src="https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" height="20" align="middle"></a>
   </td>
 </tr>
+
 <tr>
    <td> OS
   </td>
@@ -80,8 +88,10 @@ I'm interested in..
   </td>
    <td>
    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" height="20" align="middle"/></a>
-<img src="https://img.shields.io/badge/Duckdb-000000?style=for-the-badge&logo=Duckdb&logoColor=yellow" height="20" align="middle"/></a>
-<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white" height="20" align="middle"/></a>
+   <img src="https://img.shields.io/badge/Duckdb-000000?style=for-the-badge&logo=Duckdb&logoColor=yellow" height="20" align="middle"/></a>
+   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white" height="20" align="middle"/></a>
+   <img src="https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge&logo=ClickHouse&logoColor=white" height="20" align="middle"/></a>
+   <img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" height="20" align="middle"/></a>
   </td>
 </tr>
 <tr>
