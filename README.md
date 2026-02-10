@@ -53,8 +53,9 @@ I'm interested in..
    <td> Frameworks & Library
   </td>
    <td>
-    <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" height="20" align="middle"></a>
     <img src="https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FastAPI&logoColor=white" height="20" align="middle"></a>
+    <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" height="20" align="middle"></a>
+    <img src="https://img.shields.io/badge/langchain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" height="20" align="middle"></a>
     <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white" height="20" align="middle"></a>
     <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" height="20" align="middle"></a>
     <img src="https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" height="20" align="middle"></a>
@@ -89,8 +90,8 @@ I'm interested in..
    <td>
    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" height="20" align="middle"/></a>
    <img src="https://img.shields.io/badge/Duckdb-000000?style=for-the-badge&logo=Duckdb&logoColor=yellow" height="20" align="middle"/></a>
-   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white" height="20" align="middle"/></a>
    <img src="https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge&logo=ClickHouse&logoColor=white" height="20" align="middle"/></a>
+   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white" height="20" align="middle"/></a>
    <img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" height="20" align="middle"/></a>
   </td>
 </tr>
@@ -98,8 +99,8 @@ I'm interested in..
   <td> Cloud
   </td>
    <td>
-<img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" height="20" align="middle"></a>
 <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" height="20" align="middle"></a>
+<img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" height="20" align="middle"></a>
   </td>
 </tr>
 </table>
