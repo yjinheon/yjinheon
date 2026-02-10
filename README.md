@@ -142,10 +142,10 @@ I'm interested in..
 - [뉴스 요약문 생성 모델 개발](https://github.com/seawavve/NLG_summarization)
 
 ## Recent Writings 
+ - [[clickHouse]Final keyword의 의미](https://yjinheon.netlify.app/posts/02de/db/clickhouse/clickhouse_final/) (2026-02-09)
  - [[Concept]미분류 개념들](https://yjinheon.netlify.app/posts/60unsorted/unsorted-concepts/) (2026-01-21)
  - [[Agent]AI Agent 디자인패턴: 핵심 워크플로우 관련 패턴들](https://yjinheon.netlify.app/posts/04ml/agent/agentic_design_pattern_02/) (2025-12-28)
  - [[Agent]AI Agent 디자인패턴: Agent개념의 이해와 병렬처리 패턴](https://yjinheon.netlify.app/posts/04ml/agent/agentic_design_pattern_01/) (2025-12-17)
  - [[Agent]Claude Code에서 Prompt Caching하기](https://yjinheon.netlify.app/posts/04ml/agent/prompt_caching/) (2025-12-17)
- - [[DB]Log-Structured vs Page-Oriented](https://yjinheon.netlify.app/posts/05system/data-intensive/03_db_engine_searching/) (2025-09-06)
 
- Last Updated: 2026-02-09 14:00:02
+ Last Updated: 2026-02-10 09:51:34
