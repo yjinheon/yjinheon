@@ -145,7 +145,7 @@ I'm interested in..
  - [Yarn에서의 파일 지역성 문제](https://yjinheon.netlify.app/posts/02de/spark/de-spark-yarn-locality/) (2026-02-10)
  - [[clickHouse]Final keyword의 의미](https://yjinheon.netlify.app/posts/02de/db/clickhouse/clickhouse_final/) (2026-02-09)
  - [[Concept]미분류 개념들](https://yjinheon.netlify.app/posts/60unsorted/unsorted-concepts/) (2026-01-21)
- - [[Agent]AI Agent 디자인패턴: 리소스 핸들링과 가드레일 패턴들](https://yjinheon.netlify.app/posts/04ml/agent/agentic_design_pattern_05/) (2026-01-19)
+ - [[Agent]AI Agent 디자인패턴: 우선순위 전략패턴 및 Agent Frameworks 선택](https://yjinheon.netlify.app/posts/04ml/agent/agentic_design_pattern_05/) (2026-01-19)
  - [[Agent]AI Agent 디자인패턴: 리소스 핸들링과 가드레일 패턴들](https://yjinheon.netlify.app/posts/04ml/agent/agentic_design_pattern_04/) (2026-01-12)
 
- Last Updated: 2026-02-22 13:42:11
+ Last Updated: 2026-03-01 13:45:46
