@@ -142,10 +142,10 @@ I'm interested in..
 - [뉴스 요약문 생성 모델 개발](https://github.com/seawavve/NLG_summarization)
 
 ## Recent Writings 
+ - [[spark]Spark Shuffling 최적화](https://yjinheon.netlify.app/posts/02de/spark/de-spark-shuffle/) (2026-03-02)
+ - [[spark]MPP와 데이터레이크 하우스 관점에서의 Spark](https://yjinheon.netlify.app/posts/02de/spark/de-mpp-vs-data-lakehouse/) (2026-03-02)
+ - [[Iceberg]Open Table format 개요](https://yjinheon.netlify.app/posts/02de/spark/de-opentable-opentableformat/) (2026-03-02)
  - [Yarn에서의 파일 지역성 문제](https://yjinheon.netlify.app/posts/02de/spark/de-spark-yarn-locality/) (2026-02-10)
  - [[clickHouse]Final keyword의 의미](https://yjinheon.netlify.app/posts/02de/db/clickhouse/clickhouse_final/) (2026-02-09)
- - [[Concept]미분류 개념들](https://yjinheon.netlify.app/posts/60unsorted/unsorted-concepts/) (2026-01-21)
- - [[Agent]AI Agent 디자인패턴: 우선순위 전략패턴 및 Agent Frameworks 선택](https://yjinheon.netlify.app/posts/04ml/agent/agentic_design_pattern_05/) (2026-01-19)
- - [[Agent]AI Agent 디자인패턴: 리소스 핸들링과 가드레일 패턴들](https://yjinheon.netlify.app/posts/04ml/agent/agentic_design_pattern_04/) (2026-01-12)
 
- Last Updated: 2026-03-01 13:45:46
+ Last Updated: 2026-03-08 13:40:07
