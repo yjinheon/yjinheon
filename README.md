@@ -18,7 +18,6 @@ I'm interested in..
 
 - Building Data Pipeline (ETL,ELT..)
 - Batch/Streaming Processing
-- Data Analysis
 - Machine Learning
 - TUI , CLI applications to help my dev workflow
 - Linux Window Managers like Hyprland, awesomewm
