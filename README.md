@@ -147,4 +147,4 @@ I'm interested in..
  - [[DE Design Pattern]08-03. Bucket](https://yjinheon.netlify.app/posts/02de/00-de-design-pattern/08_data_storage/08-03-bucket/) (2026-03-27)
  - [[DE Design Pattern]08-04. Sorter](https://yjinheon.netlify.app/posts/02de/00-de-design-pattern/08_data_storage/08-04_sorter/) (2026-03-27)
 
- Last Updated: 2026-06-07 14:42:52
+ Last Updated: 2026-06-14 14:45:30
