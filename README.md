@@ -141,10 +141,10 @@ I'm interested in..
 - [뉴스 요약문 생성 모델 개발](https://github.com/seawavve/NLG_summarization)
 
 ## Recent Writings 
+ - [[Iceberg]파티션이 다른데 왜 커밋이 충돌할까](https://yjinheon.netlify.app/posts/02de/00-storage/otf-02-concurrent-commit/) (2026-08-09)
+ - [[Iceberg]Open Table format 개요](https://yjinheon.netlify.app/posts/02de/00-storage/otf-01/) (2026-08-02)
  - [[DE Design Pattern]09-01 Audit-Write-Audit-Publish](https://yjinheon.netlify.app/posts/02de/07-de-design-pattern/09_data_quality/09-01-audit-write-audit-publish/) (2026-04-03)
  - [[DE Design Pattern]09-02 Constraint Enforcer](https://yjinheon.netlify.app/posts/02de/07-de-design-pattern/09_data_quality/09-02_constraint_enforcer/) (2026-04-03)
  - [[DE Design Pattern]09-03 Schema Coompatibility Enforcer](https://yjinheon.netlify.app/posts/02de/07-de-design-pattern/09_data_quality/09-03-schema-compatibiliy/) (2026-04-03)
- - [[DE Design Pattern]08-03. Bucket](https://yjinheon.netlify.app/posts/02de/07-de-design-pattern/08_data_storage/08-03-bucket/) (2026-03-27)
- - [[DE Design Pattern]08-04. Sorter](https://yjinheon.netlify.app/posts/02de/07-de-design-pattern/08_data_storage/08-04_sorter/) (2026-03-27)
 
- Last Updated: 2026-08-02 15:40:12
+ Last Updated: 2026-08-09 14:12:36
