@@ -147,4 +147,4 @@ I'm interested in..
  - [[DE Design Pattern]09-02 Constraint Enforcer](https://yjinheon.netlify.app/posts/02de/07-de-design-pattern/09_data_quality/09-02_constraint_enforcer/) (2026-04-03)
  - [[DE Design Pattern]09-03 Schema Coompatibility Enforcer](https://yjinheon.netlify.app/posts/02de/07-de-design-pattern/09_data_quality/09-03-schema-compatibiliy/) (2026-04-03)
 
- Last Updated: 2026-10-11 19:44:50
+ Last Updated: 2026-10-18 17:46:41
